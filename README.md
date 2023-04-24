@@ -1,17 +1,21 @@
-# Final-Project-Statistical-Modelling-with-Python
+PROJECT GOALS
 
-## Project/Goals
-(fill in your description and goals here)
+The goal of the project was to combine, practice and implement skill sets obtained thus far. From accessing data using API's, cleaning and loading data, to interpreting statistical results and modelling.
 
-## Process
-### (your step 1)
-### (your step 2)
+Process
 
-## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+The project followed the following process
 
-## Challenges 
-(discuss challenges you faced in the project)
+Access and retrieve data using APIs Cleaning and transforming data in Python Loading data into a database using Python Performing EDA, including using both statistics and visualizations Identifying trends and patterns in data using statistical models Interpreting the results of the statistical models
 
-## Future Goals
-(what would you do if you had more time?)
+Results
+
+The Foursquare API had more locations and information associated with said location. As opposed to Yelp API which had limited number of locations and not much tags associated with them. This impacted the final model as more information would have produced a better model
+
+Challenges
+
+There were businesses that had variations of their names in both API's but had the same location. Sorting through POI's and making sure they were no duplicates was challenging. The different call times for the API's was also an issue.
+
+Future Goals
+
+Get a more robust data set.
