@@ -6,11 +6,11 @@ Process
 
 The project followed the following process
 
-Access and retrieve data using APIs Cleaning and transforming data in Python Loading data into a database using Python Performing EDA, including using both statistics and visualizations Identifying trends and patterns in data using statistical models Interpreting the results of the statistical models
+Access and retrieve data using APIs, Cleaning and transforming the data in Python, Loading data into a database using Python, Performing EDA, statistical analysis and visualizations, Identifying trends and patterns in data using statistical models and interpreting the results of the statistical models
 
 Results
 
-The Foursquare API had more locations and information associated with said location. As opposed to Yelp API which had limited number of locations and not much tags associated with them. This impacted the final model as more information would have produced a better model
+The Foursquare API had more locations and information associated with each location. As opposed to Yelp API which had limited number of locations and not much tags associated with them. This impacted the final model as more information would have produced a better model
 
 Challenges
 
