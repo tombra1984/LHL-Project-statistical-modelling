@@ -1,0 +1,737 @@
+,station_name,name,rating,Address,rating_counts,distance
+0,GEORGES LANE,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,381.3309096050162
+1,GEORGES LANE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1055.350508252417
+2,GEORGES LANE,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,358.1269375986192
+3,GEORGES LANE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1013.6964685658592
+4,GEORGES LANE,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1251.4650182560508
+5,GEORGES LANE,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,905.8010755517589
+6,NORTH CIRCULAR ROAD (O'CONNELL'S),Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,670.4099125986061
+7,NORTH CIRCULAR ROAD (O'CONNELL'S),The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,885.8061726670261
+8,PHIBSBOROUGH ROAD,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1173.435675486342
+9,PHIBSBOROUGH ROAD,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1141.7594015744264
+10,PHIBSBOROUGH ROAD,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,558.9495930776611
+11,PHIBSBOROUGH ROAD,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1065.3125703931867
+12,SMITHFIELD NORTH,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,311.07745023072266
+13,SMITHFIELD NORTH,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,931.4726400036127
+14,SMITHFIELD NORTH,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,366.31092045300215
+15,SMITHFIELD NORTH,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,891.176784874196
+16,SMITHFIELD NORTH,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1127.3568883313253
+17,SMITHFIELD NORTH,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,789.1069231338511
+18,SMITHFIELD NORTH,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,1349.5768576758758
+19,CLONMEL STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,473.4585997694091
+20,CLONMEL STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,507.11283079430535
+21,CLONMEL STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,613.9648271923564
+22,CLONMEL STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,949.9523064675893
+23,CLONMEL STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,946.1113474860808
+24,CLONMEL STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,691.8747127054651
+25,CLONMEL STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,548.4168579126754
+26,CLONMEL STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,831.9302813467417
+27,CLONMEL STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,494.48334629020763
+28,CLONMEL STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,855.3270918100642
+29,AVONDALE ROAD,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,318.34697387881823
+30,MOUNT STREET LOWER,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,499.90416790331375
+31,MOUNT STREET LOWER,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,978.2258394732363
+32,MOUNT STREET LOWER,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,215.9087381899147
+33,MOUNT STREET LOWER,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1020.9910679784
+34,MOUNT STREET LOWER,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,772.1707032778097
+35,MOUNT STREET LOWER,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,933.259389807526
+36,MOUNT STREET LOWER,MAIA,3.5,47 Shelbourne Road Ballsbridge Dublin 4 Republic of Ireland,18,1052.2740779669327
+37,MOUNT STREET LOWER,Roly's Cafe,3.5,7 Ballsbridge Terrace Dublin 4 Republic of Ireland,25,1128.943845535559
+38,CHRISTCHURCH PLACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,863.3191142597087
+39,CHRISTCHURCH PLACE,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,709.6482089689412
+40,CHRISTCHURCH PLACE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,849.6621155696414
+41,CHRISTCHURCH PLACE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,791.4402381513655
+42,CHRISTCHURCH PLACE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,191.32699957961714
+43,CHRISTCHURCH PLACE,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,936.1625433704537
+44,CHRISTCHURCH PLACE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,87.0515660609627
+45,CHRISTCHURCH PLACE,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,635.1232733650764
+46,CHRISTCHURCH PLACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1053.3759128998975
+47,CHRISTCHURCH PLACE,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,550.0696503224032
+48,GRANTHAM STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,740.0289206134323
+49,GRANTHAM STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,773.3286483013836
+50,GRANTHAM STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,876.9560116274336
+51,GRANTHAM STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,479.7233436934355
+52,GRANTHAM STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,806.7081918506395
+53,GRANTHAM STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,761.1639690457755
+54,GRANTHAM STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1122.026197872139
+55,GRANTHAM STREET,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,89.69577542462231
+56,GRANTHAM STREET,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,792.3504951016109
+57,GRANTHAM STREET,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,805.9606147696622
+58,PEARSE STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,773.955749510008
+59,PEARSE STREET,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,1410.7603600895695
+60,PEARSE STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,744.9087131493624
+61,PEARSE STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,673.0389179062315
+62,PEARSE STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,856.4140552835278
+63,PEARSE STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,718.9181117307056
+64,PEARSE STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,842.2227195441969
+65,PEARSE STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,950.2657801219978
+66,PEARSE STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,749.0596944143681
+67,PEARSE STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,746.8036013447993
+68,YORK STREET EAST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,224.73814823352944
+69,YORK STREET EAST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,245.22388904541856
+70,YORK STREET EAST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,321.73481951881575
+71,YORK STREET EAST,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,700.4139818023107
+72,YORK STREET EAST,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,722.0197491148506
+73,YORK STREET EAST,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,904.8971988833268
+74,YORK STREET EAST,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,904.5283522944083
+75,YORK STREET EAST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,385.9311291912974
+76,YORK STREET EAST,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,782.0310961189092
+77,YORK STREET EAST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,549.5886441114646
+78,EXCISE WALK,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1337.7379945861978
+79,EXCISE WALK,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1308.6168817181135
+80,EXCISE WALK,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1232.2922939845341
+81,EXCISE WALK,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1272.4678849111947
+82,EXCISE WALK,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1312.57500482773
+83,EXCISE WALK,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,890.542631662856
+84,EXCISE WALK,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,959.6499165503741
+85,EXCISE WALK,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,682.993417698601
+86,EXCISE WALK,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,1247.7337198151668
+87,EXCISE WALK,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,1037.684163212575
+88,FITZWILLIAM SQUARE WEST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,551.9216571005508
+89,FITZWILLIAM SQUARE WEST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,574.8916753403511
+90,FITZWILLIAM SQUARE WEST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,677.6224399801489
+91,FITZWILLIAM SQUARE WEST,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1324.217307233725
+92,FITZWILLIAM SQUARE WEST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,379.3754808219213
+93,FITZWILLIAM SQUARE WEST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1134.9103922428567
+94,FITZWILLIAM SQUARE WEST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,526.5005417318698
+95,FITZWILLIAM SQUARE WEST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,836.8685286691614
+96,FITZWILLIAM SQUARE WEST,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,694.5694384583543
+97,FITZWILLIAM SQUARE WEST,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,893.4391405702139
+98,PORTOBELLO ROAD,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,499.46006701564187
+99,PORTOBELLO ROAD,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1250.5158726347715
+100,PORTOBELLO ROAD,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,541.2005103091834
+101,PORTOBELLO ROAD,Sophie's Bar,4.0,33 Harcourt Street 5th Floor Dublin 2 Republic of Ireland,121,630.8160355027775
+102,PORTOBELLO ROAD,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,1276.6217088142937
+103,PORTOBELLO ROAD,Two Fifty Square,3.5,Lower Rathmines Road 52 Williams Park Dublin 6 Republic of Ireland,41,551.7550001525634
+104,PARNELL STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1034.9119197863743
+105,PARNELL STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,773.6452994432917
+106,PARNELL STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,838.8834577433787
+107,PARNELL STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,480.2465791407462
+108,PARNELL STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,592.9191485171903
+109,PARNELL STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,833.8919804207808
+110,PARNELL STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1176.8106038089609
+111,PARNELL STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,376.7271588886141
+112,PARNELL STREET,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,618.2086296641984
+113,PARNELL STREET,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,1059.7460166549793
+114,FREDERICK STREET SOUTH,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,261.0881646369902
+115,FREDERICK STREET SOUTH,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,226.85345429034493
+116,FREDERICK STREET SOUTH,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,148.1918628725753
+117,FREDERICK STREET SOUTH,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,765.6595849849252
+118,FREDERICK STREET SOUTH,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,841.5310125773058
+119,FREDERICK STREET SOUTH,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,708.0014558173731
+120,FREDERICK STREET SOUTH,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,301.6863943793677
+121,FREDERICK STREET SOUTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,619.2968749616647
+122,FREDERICK STREET SOUTH,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,560.9620768698258
+123,FREDERICK STREET SOUTH,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,245.3794739750364
+124,CUSTOM HOUSE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1015.797452477712
+125,CUSTOM HOUSE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,978.5005307147612
+126,CUSTOM HOUSE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,859.4663578452958
+127,CUSTOM HOUSE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,971.2056464993312
+128,CUSTOM HOUSE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1075.3348083244273
+129,CUSTOM HOUSE,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,548.0759406480308
+130,CUSTOM HOUSE,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,612.4744135569736
+131,CUSTOM HOUSE,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,855.1516491347166
+132,CUSTOM HOUSE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1007.084623849388
+133,CUSTOM HOUSE,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,1258.036136287767
+134,RATHDOWN ROAD,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,580.9280852120705
+135,HANOVER QUAY,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,987.4141629366209
+136,HANOVER QUAY,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,568.2388729561178
+137,HANOVER QUAY,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,869.2021466843948
+138,OLIVER BOND STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,338.61694513993507
+139,OLIVER BOND STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,863.5320030260307
+140,OLIVER BOND STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,416.3918620382672
+141,OLIVER BOND STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,767.7888622138677
+142,OLIVER BOND STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1007.9646183080985
+143,COLLINS BARRACKS MUSEUM,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,413.88134696330553
+144,COLLINS BARRACKS MUSEUM,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,186.15115788591405
+145,BROOKFIELD ROAD,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,752.6719029710393
+146,BENSON STREET,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,994.3732252337968
+147,BENSON STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,737.5716499749986
+148,EARLSFORT TERRACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,578.4300656688534
+149,EARLSFORT TERRACE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,615.6209008469192
+150,EARLSFORT TERRACE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,743.1213568477137
+151,EARLSFORT TERRACE,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,939.9459693782153
+152,EARLSFORT TERRACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,527.1876490353164
+153,EARLSFORT TERRACE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,577.6764116308611
+154,EARLSFORT TERRACE,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,901.0603038858013
+155,EARLSFORT TERRACE,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,508.85547844538485
+156,EARLSFORT TERRACE,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,832.885353293083
+157,EARLSFORT TERRACE,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,827.7080016276544
+158,GOLDEN LANE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,607.3084299896443
+159,GOLDEN LANE,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1009.0759519106834
+160,GOLDEN LANE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,604.3072900194777
+161,GOLDEN LANE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,587.1218537063988
+162,GOLDEN LANE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,369.190018856507
+163,GOLDEN LANE,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1225.4900688895943
+164,GOLDEN LANE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,336.9453288221129
+165,GOLDEN LANE,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,757.8498311497729
+166,GOLDEN LANE,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,858.3197603196863
+167,GOLDEN LANE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,796.9503187784552
+168,DEVERELL PLACE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1152.9664932061946
+169,DEVERELL PLACE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1250.8488822754455
+170,DEVERELL PLACE,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,703.6031240231337
+171,DEVERELL PLACE,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,810.064410035043
+172,DEVERELL PLACE,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1089.3394287720075
+173,DEVERELL PLACE,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,869.8689934006169
+174,DEVERELL PLACE,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,808.6320433828342
+175,DEVERELL PLACE,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,1034.6140500277784
+176,DEVERELL PLACE,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,991.4151243371927
+177,WILTON TERRACE (PARK),Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,953.0459442172811
+178,WILTON TERRACE (PARK),Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,874.0994946933107
+179,WILTON TERRACE (PARK),Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,975.376663029707
+180,WILTON TERRACE (PARK),Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1073.8498514640312
+181,WILTON TERRACE (PARK),The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,776.4646963044388
+182,WILTON TERRACE (PARK),Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,927.1342873295476
+183,WILTON TERRACE (PARK),3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,812.5022933011112
+184,WILTON TERRACE (PARK),The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1049.5934396456325
+185,WILTON TERRACE (PARK),Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1288.9483932793426
+186,WILTON TERRACE (PARK),Taste Food Company Cafe and Bistro,4.0,39/40 S William St Dublin 2 Dublin 2 Republic of Ireland,80,1277.2264049157202
+187,JOHN STREET WEST,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,432.64134582856633
+188,JOHN STREET WEST,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,649.7456092987202
+189,JOHN STREET WEST,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,597.6482860140214
+190,JOHN STREET WEST,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,548.8818764410469
+191,JOHN STREET WEST,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1055.5184587686765
+192,JOHN STREET WEST,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,993.9196718734313
+193,JOHN STREET WEST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,830.6073363584173
+194,JOHN STREET WEST,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,859.2691255473774
+195,JOHN STREET WEST,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,1177.716050528052
+196,JOHN STREET WEST,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,930.8130462062401
+197,FENIAN STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,833.6634981711816
+198,FENIAN STREET,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,1011.6395514472356
+199,FENIAN STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,819.9681689564216
+200,FENIAN STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,809.7246501425386
+201,FENIAN STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,691.9647325826451
+202,FENIAN STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,799.6060766345186
+203,FENIAN STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,359.83157171119586
+204,FENIAN STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,569.3382439589226
+205,FENIAN STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,261.327004385488
+206,FENIAN STREET,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,653.0031875225291
+207,MERRION SQUARE SOUTH,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,687.2069442260606
+208,MERRION SQUARE SOUTH,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,947.1675892063566
+209,MERRION SQUARE SOUTH,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,688.6529710267307
+210,MERRION SQUARE SOUTH,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,731.6436798099654
+211,MERRION SQUARE SOUTH,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1306.4441514249288
+212,MERRION SQUARE SOUTH,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,504.1975602633701
+213,MERRION SQUARE SOUTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,1237.0312377055454
+214,MERRION SQUARE SOUTH,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,652.0986655858237
+215,MERRION SQUARE SOUTH,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,463.58615115430536
+216,MERRION SQUARE SOUTH,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,589.3108529922544
+217,SOUTH DOCK ROAD,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,778.4494201595016
+218,SOUTH DOCK ROAD,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,740.4201803943631
+219,CITY QUAY,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1158.2810383074877
+220,CITY QUAY,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1129.286685931592
+221,CITY QUAY,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1054.3630407109945
+222,CITY QUAY,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1094.290652341933
+223,CITY QUAY,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1133.0590239412788
+224,CITY QUAY,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,800.8464294011095
+225,CITY QUAY,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,780.7473885043147
+226,CITY QUAY,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,507.78946797006887
+227,CITY QUAY,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,1070.3596398584039
+228,CITY QUAY,Bewley's Cafe,3.5,78-79 Grafton Street Dublin 2 Republic of Ireland,194,1091.211798564402
+229,EXCHEQUER STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,503.496796482616
+230,EXCHEQUER STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,478.1163795836884
+231,EXCHEQUER STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,386.27154518778644
+232,EXCHEQUER STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,288.7683623506735
+233,EXCHEQUER STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,366.3748472115806
+234,EXCHEQUER STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,433.35142884293145
+235,EXCHEQUER STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,677.4341579755016
+236,EXCHEQUER STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,307.64466021674383
+237,EXCHEQUER STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,84.93234093179124
+238,EXCHEQUER STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,526.6172145830514
+239,THE POINT,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,1070.559384685639
+240,BROADSTONE,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,985.7766114785911
+241,BROADSTONE,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1208.5883301564145
+242,BROADSTONE,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1049.0569912032079
+243,BROADSTONE,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1082.7158776583983
+244,BROADSTONE,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,1174.2234329454432
+245,BROADSTONE,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,732.1016692031491
+246,BROADSTONE,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,863.9323595411944
+247,HATCH STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,619.8923856186753
+248,HATCH STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,657.5188714451898
+249,HATCH STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,781.5452324094329
+250,HATCH STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,791.543517666256
+251,HATCH STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,612.4783887663435
+252,HATCH STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,627.5123618589696
+253,HATCH STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,974.7072699966944
+254,HATCH STREET,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,369.2886421339112
+255,HATCH STREET,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,814.296681460653
+256,HATCH STREET,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,815.1872278911203
+257,LIME STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1158.243068180987
+258,LIME STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1219.0745622132715
+259,LIME STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,691.2664123148604
+260,LIME STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,884.0329956810813
+261,LIME STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,565.9846632604097
+262,LIME STREET,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,1128.6759090798819
+263,LIME STREET,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,984.8661704847431
+264,CHARLEMONT PLACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,985.8735023816399
+265,CHARLEMONT PLACE,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,890.7250180009806
+266,CHARLEMONT PLACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,946.0883531815335
+267,CHARLEMONT PLACE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,989.247552702375
+268,CHARLEMONT PLACE,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,607.689030575177
+269,CHARLEMONT PLACE,Sophie's Bar,4.0,33 Harcourt Street 5th Floor Dublin 2 Republic of Ireland,121,542.4982930304556
+270,CHARLEMONT PLACE,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,956.3632772885782
+271,CHARLEMONT PLACE,Two Fifty Square,3.5,Lower Rathmines Road 52 Williams Park Dublin 6 Republic of Ireland,41,718.8785977980527
+272,CHARLEMONT PLACE,Cinnamon,3.0,"83/87 Ranelagh Ranelagh, 6 Republic of Ireland",70,911.6077433892747
+273,KILMAINHAM GAOL,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,23.825241743866506
+274,HARDWICKE PLACE,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,624.9212766779725
+275,HARDWICKE PLACE,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,1010.2411848562175
+276,HARDWICKE PLACE,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,776.0245166316337
+277,WOLFE TONE STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,806.6913545843112
+278,WOLFE TONE STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1046.5166172517843
+279,WOLFE TONE STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,528.6417634183206
+280,WOLFE TONE STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1007.174716707704
+281,WOLFE TONE STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,579.4860225692563
+282,WOLFE TONE STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,392.0884891591958
+283,WOLFE TONE STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,460.3220980265358
+284,WOLFE TONE STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,632.6922037658866
+285,WOLFE TONE STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1104.2872534661662
+286,WOLFE TONE STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,141.26932751439193
+287,GREEK STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1246.1294808890607
+288,GREEK STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,407.44241246240887
+289,GREEK STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1225.630192281607
+290,GREEK STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1142.113842488385
+291,GREEK STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,473.7872864599421
+292,GREEK STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,631.9554334320459
+293,GREEK STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,438.26310165995375
+294,GREEK STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,689.9532891737864
+295,GREEK STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,681.6891473074242
+296,GREEK STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,671.1729585710394
+297,GUILD STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,897.382179287455
+298,GUILD STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1145.0700783776708
+299,GUILD STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,838.766512668376
+300,HERBERT PLACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1045.8076722619608
+301,HERBERT PLACE,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,677.7377219799748
+302,HERBERT PLACE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1062.2978834358128
+303,HERBERT PLACE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1145.0060350399062
+304,HERBERT PLACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,857.9687287383742
+305,HERBERT PLACE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1015.8927269963344
+306,HERBERT PLACE,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,652.2247175198806
+307,HERBERT PLACE,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1070.8813253401145
+308,HERBERT PLACE,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,965.7670649468907
+309,HERBERT PLACE,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,819.4860370708625
+310,HIGH STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,450.40927430281516
+311,HIGH STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,504.5056234653539
+312,HIGH STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,653.560984953889
+313,HIGH STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,405.62460355037246
+314,HIGH STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,907.5556693648035
+315,HIGH STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,845.8865284812969
+316,HIGH STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,690.8029073341962
+317,HIGH STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,718.0342388248876
+318,HIGH STREET,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,1139.7522409982682
+319,HIGH STREET,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,811.5460105602457
+320,NORTH CIRCULAR ROAD,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,284.06377240577916
+321,NORTH CIRCULAR ROAD,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,670.1669800055148
+322,NORTH CIRCULAR ROAD,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,828.5562637908347
+323,WESTERN WAY,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1107.6462554246245
+324,WESTERN WAY,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1055.4329735598308
+325,WESTERN WAY,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1198.6819257910884
+326,WESTERN WAY,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1003.1030599008506
+327,WESTERN WAY,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,735.7720364496414
+328,WESTERN WAY,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,825.5582108132469
+329,TALBOT STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1232.239039357357
+330,TALBOT STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,785.0311355179743
+331,TALBOT STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,877.4354479455927
+332,TALBOT STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1144.0290643638384
+333,TALBOT STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,992.0034549238732
+334,TALBOT STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,986.2081303369301
+335,TALBOT STREET,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,870.1926287067491
+336,TALBOT STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,940.0853160185374
+337,TALBOT STREET,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,971.5340065103741
+338,NEWMAN HOUSE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,286.7608892342136
+339,NEWMAN HOUSE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,323.1477471983796
+340,NEWMAN HOUSE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,441.81746149180634
+341,NEWMAN HOUSE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,903.4046814844685
+342,NEWMAN HOUSE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,921.7352963575481
+343,NEWMAN HOUSE,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,887.2406901097704
+344,NEWMAN HOUSE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,347.798460648913
+345,NEWMAN HOUSE,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,972.2613576551198
+346,NEWMAN HOUSE,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,751.2775514166468
+347,NEWMAN HOUSE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,302.3961962442461
+348,SIR PATRICK DUN'S,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,555.4242249319168
+349,SIR PATRICK DUN'S,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,114.49412426744695
+350,SIR PATRICK DUN'S,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1020.7752354343014
+351,SIR PATRICK DUN'S,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,733.731722820406
+352,SIR PATRICK DUN'S,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,988.6092611527924
+353,SIR PATRICK DUN'S,MAIA,3.5,47 Shelbourne Road Ballsbridge Dublin 4 Republic of Ireland,18,1136.695688720111
+354,NEW CENTRAL BANK,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,936.1937641767854
+355,GRANGEGORMAN LOWER (CENTRAL),Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,930.1264030837339
+356,GRANGEGORMAN LOWER (CENTRAL),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,898.3364222096609
+357,GRANGEGORMAN LOWER (CENTRAL),Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,784.2366328903679
+358,GRANGEGORMAN LOWER (CENTRAL),The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1138.4334048778146
+359,KING STREET NORTH,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,536.2765462445607
+360,KING STREET NORTH,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,792.5806000011727
+361,KING STREET NORTH,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,671.717448403999
+362,KING STREET NORTH,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,788.0842038805145
+363,KING STREET NORTH,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,818.0819475158673
+364,KING STREET NORTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,866.5630504744693
+365,KING STREET NORTH,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,962.0583690657805
+366,KING STREET NORTH,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,535.0784638764496
+367,KING STREET NORTH,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,899.3376659090083
+368,KING STREET NORTH,Bewley's Cafe,3.5,78-79 Grafton Street Dublin 2 Republic of Ireland,194,1298.8044391569445
+369,KILLARNEY STREET,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1093.0798770642143
+370,KILLARNEY STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1332.264120878126
+371,HERBERT STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,979.078067447245
+372,HERBERT STREET,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,668.5065166585504
+373,HERBERT STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,991.1725436568205
+374,HERBERT STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1062.0542715397262
+375,HERBERT STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,787.9851415005458
+376,HERBERT STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,946.9619796234778
+377,HERBERT STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,517.6016444046704
+378,HERBERT STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,960.8922408839707
+379,HERBERT STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,829.8530108962407
+380,HERBERT STREET,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,746.3102902535687
+381,HANOVER QUAY EAST,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,961.8601080666324
+382,HANOVER QUAY EAST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,796.3400712774239
+383,CUSTOM HOUSE QUAY,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1176.8454974353747
+384,CUSTOM HOUSE QUAY,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1144.3416188978902
+385,CUSTOM HOUSE QUAY,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1052.9346599712571
+386,CUSTOM HOUSE QUAY,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,971.1197110103925
+387,CUSTOM HOUSE QUAY,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,1011.9243824693357
+388,CUSTOM HOUSE QUAY,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1155.9406220204262
+389,CUSTOM HOUSE QUAY,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,977.076317968903
+390,CUSTOM HOUSE QUAY,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,794.7444648902151
+391,CUSTOM HOUSE QUAY,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,990.4478985765255
+392,CUSTOM HOUSE QUAY,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1240.1791044358085
+393,MOLESWORTH STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,205.48920800645604
+394,MOLESWORTH STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,168.04631301009024
+395,MOLESWORTH STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,62.234578259600376
+396,MOLESWORTH STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,699.7178788343058
+397,MOLESWORTH STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,770.3114411548811
+398,MOLESWORTH STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,689.3967240090885
+399,MOLESWORTH STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,1283.3874772094355
+400,MOLESWORTH STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,301.65727867229583
+401,MOLESWORTH STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,589.9120188254234
+402,MOLESWORTH STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,496.0556934455075
+403,GEORGES QUAY,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,994.8747188061416
+404,GEORGES QUAY,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,959.2602862440109
+405,GEORGES QUAY,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,851.9107489412341
+406,GEORGES QUAY,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,693.1451373141202
+407,GEORGES QUAY,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1000.7279846954574
+408,GEORGES QUAY,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,735.0336310250186
+409,GEORGES QUAY,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,943.9090969207239
+410,GEORGES QUAY,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,980.0316774904227
+411,GEORGES QUAY,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,1086.3924510600532
+412,GEORGES QUAY,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,627.8964390248318
+413,KILMAINHAM LANE,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,337.87839088176975
+414,MOUNT BROWN,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1173.0023614928864
+415,MOUNT BROWN,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,860.3897146116302
+416,MARKET STREET SOUTH,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,758.177488070902
+417,MARKET STREET SOUTH,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,670.4033393530884
+418,MARKET STREET SOUTH,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,1385.759772228278
+419,KEVIN STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,618.3020212657156
+420,KEVIN STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,635.5820653838866
+421,KEVIN STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,685.3959328376664
+422,KEVIN STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,707.7327000224443
+423,KEVIN STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,670.8123379552176
+424,KEVIN STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,560.8692514576795
+425,KEVIN STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,773.292539973263
+426,KEVIN STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,946.6763294264026
+427,KEVIN STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,662.6276857944063
+428,KEVIN STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,651.9261877165228
+429,ECCLES STREET EAST,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,623.8084881708113
+430,ECCLES STREET EAST,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,990.6006617585286
+431,ECCLES STREET EAST,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,578.7321933675108
+432,GRAND CANAL DOCK,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,844.4334455004097
+433,GRAND CANAL DOCK,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,374.93009322553416
+434,GRAND CANAL DOCK,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,752.5214063246513
+435,MERRION SQUARE EAST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,816.8772208910981
+436,MERRION SQUARE EAST,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,867.8210673849537
+437,MERRION SQUARE EAST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,813.0842716114365
+438,MERRION SQUARE EAST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,837.2853444895844
+439,MERRION SQUARE EAST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,643.7548619593297
+440,MERRION SQUARE EAST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,781.4506156239415
+441,MERRION SQUARE EAST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,308.9780160287079
+442,MERRION SQUARE EAST,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,649.7880427619458
+443,MERRION SQUARE EAST,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,430.4934150373216
+444,MERRION SQUARE EAST,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,599.5618473574077
+445,YORK STREET WEST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,388.6207898291503
+446,YORK STREET WEST,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1268.1679506163937
+447,YORK STREET WEST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,397.0027698040854
+448,YORK STREET WEST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,426.42239392607456
+449,YORK STREET WEST,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,564.4616100959006
+450,YORK STREET WEST,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,566.1851330580166
+451,YORK STREET WEST,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,851.3782663145629
+452,YORK STREET WEST,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,821.5956613755168
+453,YORK STREET WEST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,567.5943479868209
+454,YORK STREET WEST,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,725.6793102608938
+455,ST. STEPHEN'S GREEN SOUTH,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,304.655554781317
+456,ST. STEPHEN'S GREEN SOUTH,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,336.03286725823745
+457,ST. STEPHEN'S GREEN SOUTH,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,438.1940831435895
+458,ST. STEPHEN'S GREEN SOUTH,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,823.5316985390825
+459,ST. STEPHEN'S GREEN SOUTH,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,835.0369518395341
+460,ST. STEPHEN'S GREEN SOUTH,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,824.6711210217496
+461,ST. STEPHEN'S GREEN SOUTH,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,412.68056614939644
+462,ST. STEPHEN'S GREEN SOUTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,921.9761953100874
+463,ST. STEPHEN'S GREEN SOUTH,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,684.0599817491659
+464,ST. STEPHEN'S GREEN SOUTH,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,329.61497879391925
+465,DENMARK STREET GREAT,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,732.1739644044778
+466,DENMARK STREET GREAT,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,973.2910997390285
+467,DENMARK STREET GREAT,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,970.9860931733706
+468,DENMARK STREET GREAT,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,950.2744888708885
+469,ROYAL HOSPITAL,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,1047.8544261581899
+470,ROYAL HOSPITAL,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,883.2635764990611
+471,HEUSTON STATION (CAR PARK),LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,967.0944719783113
+472,GRANGEGORMAN LOWER (NORTH),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,982.4302590491375
+473,GRANGEGORMAN LOWER (NORTH),Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,708.650084335284
+474,GRANGEGORMAN LOWER (NORTH),The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1201.4746233270835
+475,ST. STEPHEN'S GREEN EAST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,263.4416076939466
+476,ST. STEPHEN'S GREEN EAST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,287.83011073572686
+477,ST. STEPHEN'S GREEN EAST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,398.35723663184507
+478,ST. STEPHEN'S GREEN EAST,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1035.618771399561
+479,ST. STEPHEN'S GREEN EAST,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1081.7798532311758
+480,ST. STEPHEN'S GREEN EAST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,112.42844846711473
+481,ST. STEPHEN'S GREEN EAST,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,993.2795131120536
+482,ST. STEPHEN'S GREEN EAST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,847.1427200997874
+483,ST. STEPHEN'S GREEN EAST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,239.2726050809253
+484,ST. STEPHEN'S GREEN EAST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,962.4341245822523
+485,HEUSTON STATION (CENTRAL),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,965.7593961155098
+486,HEUSTON STATION (CENTRAL),LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,995.896130486383
+487,TOWNSEND STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,768.253920713975
+488,TOWNSEND STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,731.7085887420075
+489,TOWNSEND STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,619.1950023067873
+490,TOWNSEND STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,880.381901958537
+491,TOWNSEND STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,983.21211408161
+492,TOWNSEND STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,539.6641846238011
+493,TOWNSEND STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,795.4324545034984
+494,TOWNSEND STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,548.6355397345167
+495,TOWNSEND STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,722.415218264045
+496,TOWNSEND STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,756.4004085278414
+497,ECCLES STREET,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,788.213187624696
+498,ECCLES STREET,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,1098.5103425655266
+499,ECCLES STREET,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,290.50780473610274
+500,PORTOBELLO HARBOUR,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,615.8668877907756
+501,PORTOBELLO HARBOUR,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1114.2811754485915
+502,PORTOBELLO HARBOUR,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,499.72930357724874
+503,PORTOBELLO HARBOUR,Sophie's Bar,4.0,33 Harcourt Street 5th Floor Dublin 2 Republic of Ireland,121,537.0396804087242
+504,PORTOBELLO HARBOUR,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,1136.0637137620251
+505,PORTOBELLO HARBOUR,Two Fifty Square,3.5,Lower Rathmines Road 52 Williams Park Dublin 6 Republic of Ireland,41,570.6758313495156
+506,PORTOBELLO HARBOUR,Cinnamon,3.0,"83/87 Ranelagh Ranelagh, 6 Republic of Ireland",70,1119.25798354218
+507,MATER HOSPITAL,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,457.73180449385046
+508,MATER HOSPITAL,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,799.7857882666156
+509,MATER HOSPITAL,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,531.0291524994625
+510,BLESSINGTON STREET,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,849.0275565932803
+511,BLESSINGTON STREET,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,1212.4229971897746
+512,BLESSINGTON STREET,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,580.0219864439006
+513,JAMES STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,665.6088426021654
+514,JAMES STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,553.7793375290527
+515,MOUNTJOY SQUARE EAST,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,611.8981159983463
+516,MOUNTJOY SQUARE EAST,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,945.4798499808787
+517,MOUNTJOY SQUARE EAST,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1218.1969662517615
+518,MERRION SQUARE WEST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,456.676987160278
+519,MERRION SQUARE WEST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,450.7855661262869
+520,MERRION SQUARE WEST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,477.7593728340274
+521,MERRION SQUARE WEST,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1059.100502796054
+522,MERRION SQUARE WEST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,297.74611287324217
+523,MERRION SQUARE WEST,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,983.9534562470883
+524,MERRION SQUARE WEST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,935.4880325168889
+525,MERRION SQUARE WEST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,421.36689308008886
+526,MERRION SQUARE WEST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,666.1819355937365
+527,MERRION SQUARE WEST,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,341.2795087034292
+528,CONVENTION CENTRE,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,870.4371999902636
+529,CONVENTION CENTRE,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,928.0549258629721
+530,HARDWICKE STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1369.9802107686514
+531,HARDWICKE STREET,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,816.298480317851
+532,HARDWICKE STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,962.6608757605345
+533,HARDWICKE STREET,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,840.3080091944311
+534,HARDWICKE STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,880.0015557136446
+535,PARKGATE STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,852.1067710773679
+536,PARKGATE STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,623.798158995607
+537,DAME STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,728.3860211082061
+538,DAME STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,874.9974283975822
+539,DAME STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,706.8666790420754
+540,DAME STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,624.0352462041859
+541,DAME STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,49.86801194108547
+542,DAME STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,146.77711719320544
+543,DAME STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,425.357231124273
+544,DAME STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,909.6586519912632
+545,DAME STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,326.08858054527695
+546,DAME STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,155.3487014712883
+547,HEUSTON BRIDGE (SOUTH),Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,858.7311798087482
+548,HEUSTON BRIDGE (SOUTH),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,638.1305584764474
+549,CATHAL BRUGHA STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1006.223421899256
+550,CATHAL BRUGHA STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1089.6634914067588
+551,CATHAL BRUGHA STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,600.8573180718964
+552,CATHAL BRUGHA STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,726.2874083293704
+553,CATHAL BRUGHA STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1007.1068137719593
+554,CATHAL BRUGHA STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,645.2855472426297
+555,CATHAL BRUGHA STREET,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,739.4778149619422
+556,SANDWITH STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1002.637816755895
+557,SANDWITH STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,975.4702434976558
+558,SANDWITH STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,909.6754723741544
+559,SANDWITH STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,928.0687604878416
+560,SANDWITH STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,975.7558932307763
+561,SANDWITH STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,684.9644040691674
+562,SANDWITH STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,632.5094453981197
+563,SANDWITH STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,337.17296404576103
+564,SANDWITH STREET,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,902.4545613478284
+565,SANDWITH STREET,Bewley's Cafe,3.5,78-79 Grafton Street Dublin 2 Republic of Ireland,194,958.2440607543464
+566,BUCKINGHAM STREET LOWER,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1154.2650199675893
+567,BUCKINGHAM STREET LOWER,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,1135.1789127600935
+568,BUCKINGHAM STREET LOWER,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,1231.5450095830058
+569,BUCKINGHAM STREET LOWER,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,1225.1375479347103
+570,ROTHE ABBEY,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,567.5616911971057
+571,CHARLEVILLE ROAD,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,663.6677355947471
+572,PRINCES STREET / O'CONNELL STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,898.8375368234726
+573,PRINCES STREET / O'CONNELL STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,724.8713980037479
+574,PRINCES STREET / O'CONNELL STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,820.8246503363933
+575,PRINCES STREET / O'CONNELL STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,280.50430511825465
+576,PRINCES STREET / O'CONNELL STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,398.87989016751845
+577,PRINCES STREET / O'CONNELL STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,684.3834538740755
+578,PRINCES STREET / O'CONNELL STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,834.2936023568732
+579,PRINCES STREET / O'CONNELL STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,451.44827252527125
+580,PRINCES STREET / O'CONNELL STREET,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,899.2722689394911
+581,PRINCES STREET / O'CONNELL STREET,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,405.6657898414391
+582,UPPER SHERRARD STREET,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,415.4319459486049
+583,UPPER SHERRARD STREET,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,800.5230810290082
+584,UPPER SHERRARD STREET,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,849.4711671496268
+585,FITZWILLIAM SQUARE EAST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,710.9189058431191
+586,FITZWILLIAM SQUARE EAST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,732.9372925707899
+587,FITZWILLIAM SQUARE EAST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,832.0274050089761
+588,FITZWILLIAM SQUARE EAST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,534.2647798294876
+589,FITZWILLIAM SQUARE EAST,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1292.9127914425956
+590,FITZWILLIAM SQUARE EAST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,684.7291598573548
+591,FITZWILLIAM SQUARE EAST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,789.1545445340209
+592,FITZWILLIAM SQUARE EAST,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,823.542016176245
+593,FITZWILLIAM SQUARE EAST,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,1067.9179920460679
+594,FITZWILLIAM SQUARE EAST,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1047.5156769743353
+595,GRATTAN STREET,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,732.6906290032434
+596,GRATTAN STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,996.0465401169846
+597,GRATTAN STREET,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,828.920287304786
+598,GRATTAN STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,965.4541463036053
+599,GRATTAN STREET,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,124.28143420120324
+600,GRATTAN STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,809.2354291784136
+601,GRATTAN STREET,Il Caffè di Napoli,4.0,41 Westland Row Dublin 2 Republic of Ireland,64,537.4801148156528
+602,GRATTAN STREET,KC Peaches,3.5,35-37 Saint Stephen's Green Dublin 2 Republic of Ireland,37,784.7395325887185
+603,GRATTAN STREET,KC Peaches Cafe Nassau Street,3.5,28-29 Nassau St Dublin 2 Republic of Ireland,76,956.3027882622171
+604,ST JAMES HOSPITAL (LUAS),Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1101.0602523988905
+605,ST JAMES HOSPITAL (LUAS),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,972.8317599279566
+606,HARCOURT TERRACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,750.7503257910777
+607,HARCOURT TERRACE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,787.6560695248983
+608,HARCOURT TERRACE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,915.2012932030062
+609,HARCOURT TERRACE,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,979.581957229313
+610,HARCOURT TERRACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,684.6419035818776
+611,HARCOURT TERRACE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,748.312804553879
+612,HARCOURT TERRACE,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,588.9819843079134
+613,HARCOURT TERRACE,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,1004.4665681275333
+614,HARCOURT TERRACE,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1000.3084232356197
+615,HARCOURT TERRACE,Sophie's Bar,4.0,33 Harcourt Street 5th Floor Dublin 2 Republic of Ireland,121,455.4712335436028
+616,BOLTON STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,782.7953019132674
+617,BOLTON STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,800.2420860678213
+618,BOLTON STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,932.4036340100187
+619,BOLTON STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,829.4007570427443
+620,BOLTON STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,679.3695233744235
+621,BOLTON STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,759.7591031515117
+622,BOLTON STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,927.8443287361123
+623,BOLTON STREET,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,1397.4985820929114
+624,BOLTON STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,441.1392373001621
+625,BOLTON STREET,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,791.0812478109615
+626,JERVIS STREET,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,1107.762220039422
+627,JERVIS STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,843.482062590032
+628,JERVIS STREET,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,1077.2462361696378
+629,JERVIS STREET,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,963.753865914059
+630,JERVIS STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,468.3214846699882
+631,JERVIS STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,529.6494539430125
+632,JERVIS STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,312.5482870536135
+633,JERVIS STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,376.8989833334683
+634,JERVIS STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,556.8021414524579
+635,JERVIS STREET,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,1125.120292579923
+636,ORMOND QUAY UPPER,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,949.5754411504269
+637,ORMOND QUAY UPPER,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,742.4837479164795
+638,ORMOND QUAY UPPER,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,924.4193223446164
+639,ORMOND QUAY UPPER,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,827.6705272399653
+640,ORMOND QUAY UPPER,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,217.54735021054373
+641,ORMOND QUAY UPPER,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,971.435708256086
+642,ORMOND QUAY UPPER,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,265.29913578121057
+643,ORMOND QUAY UPPER,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,371.3280377622242
+644,ORMOND QUAY UPPER,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,1122.626414098088
+645,ORMOND QUAY UPPER,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,341.78416169925123
+646,GRANGEGORMAN LOWER (SOUTH),Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,872.7629277470078
+647,GRANGEGORMAN LOWER (SOUTH),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,839.1204822173181
+648,GRANGEGORMAN LOWER (SOUTH),Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,841.9934350157146
+649,GRANGEGORMAN LOWER (SOUTH),The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1109.7372394678525
+650,MOUNTJOY SQUARE WEST,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,635.944829581149
+651,MOUNTJOY SQUARE WEST,The Lovely Food Company,4.5,"94 Drumcondra Road Lower Drumcondra, Co. Dublin Republic of Ireland",22,1000.6161512608118
+652,MOUNTJOY SQUARE WEST,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,1078.0645608147477
+653,MOUNTJOY SQUARE WEST,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,1100.4613436848535
+654,WILTON TERRACE,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,889.3309812024876
+655,WILTON TERRACE,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,920.5478550120581
+656,WILTON TERRACE,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,1039.5665797451788
+657,WILTON TERRACE,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,753.1604501319343
+658,WILTON TERRACE,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,873.291947978546
+659,WILTON TERRACE,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,1098.3541877556966
+660,WILTON TERRACE,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,930.0527250711541
+661,WILTON TERRACE,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,1211.3769003220514
+662,WILTON TERRACE,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1198.7988328977754
+663,WILTON TERRACE,Sophie's Bar,4.0,33 Harcourt Street 5th Floor Dublin 2 Republic of Ireland,121,781.8027880745024
+664,EMMET ROAD,LimeTree Cafe,4.0,"Kilmainham Square Inchicore Road Kilmainham, 8 Republic of Ireland",42,219.09989038534303
+665,HEUSTON BRIDGE (NORTH),Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,890.8233615550022
+666,HEUSTON BRIDGE (NORTH),Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,663.9678048812325
+667,LEINSTER STREET SOUTH,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,416.3196177777964
+668,LEINSTER STREET SOUTH,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,386.6931189700102
+669,LEINSTER STREET SOUTH,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,321.90136921932077
+670,LEINSTER STREET SOUTH,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,892.3958523828334
+671,LEINSTER STREET SOUTH,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,977.0296393179824
+672,LEINSTER STREET SOUTH,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,750.1281513543968
+673,LEINSTER STREET SOUTH,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,389.26897303660866
+674,LEINSTER STREET SOUTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,685.1558159659614
+675,LEINSTER STREET SOUTH,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,690.2094017401547
+676,LEINSTER STREET SOUTH,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,392.7985705696544
+677,BLACKHALL PLACE,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,276.8009019470966
+678,BLACKHALL PLACE,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,1071.3431368640147
+679,BLACKHALL PLACE,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,158.48545241364502
+680,BLACKHALL PLACE,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,1011.7135819468925
+681,BLACKHALL PLACE,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,996.9453173918198
+682,CLARENDON ROW,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,290.0615240610324
+683,CLARENDON ROW,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,275.7393412567949
+684,CLARENDON ROW,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,239.58878479472116
+685,CLARENDON ROW,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,487.3717869982633
+686,CLARENDON ROW,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,531.3159559029622
+687,CLARENDON ROW,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,662.5871741689299
+688,CLARENDON ROW,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,1051.0937641427115
+689,CLARENDON ROW,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,479.37616206871763
+690,CLARENDON ROW,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,538.9427997056418
+691,CLARENDON ROW,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,313.7354691453303
+692,JAMES STREET EAST,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,782.5534597844244
+693,JAMES STREET EAST,Press Cafe,4.5,Beggar's Bush Haddington Road The National Print Museum Dublin 4 Republic of Ireland,17,851.6434401023176
+694,JAMES STREET EAST,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,794.2427277365218
+695,JAMES STREET EAST,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,865.7357318284684
+696,JAMES STREET EAST,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,591.3264275458766
+697,JAMES STREET EAST,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,750.2267569870293
+698,JAMES STREET EAST,3Fe,4.0,32/34 Lower Grand Canal Street Dublin 2 Republic of Ireland,150,548.2402123458356
+699,JAMES STREET EAST,The Kilkenny Café,4.0,6 Nassau Street First Floor Dublin 2 Republic of Ireland,44,777.359135146156
+700,JAMES STREET EAST,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,1382.4491927815511
+701,JAMES STREET EAST,Metro Cafe,4.0,43 S William Street Dublin 2 Republic of Ireland,112,1117.0494893435568
+702,PARNELL SQUARE NORTH,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,1197.1149420404788
+703,PARNELL SQUARE NORTH,Le Petit Breton,4.5,"1A Drumcondra Road Lower Drumcondra, 9 Republic of Ireland",14,1014.9485794817422
+704,PARNELL SQUARE NORTH,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,783.4240296918634
+705,PARNELL SQUARE NORTH,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,901.0528218965633
+706,PARNELL SQUARE NORTH,Woodstock Café,4.0,156 Phibsborough Road Dublin 7 Republic of Ireland,27,965.7597730800959
+707,PARNELL SQUARE NORTH,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,680.6735947012153
+708,PARNELL SQUARE NORTH,Elephant & Castle,4.0,18 Temple Bar Dublin 2 Republic of Ireland,355,924.600720374779
+709,FOWNES STREET UPPER,Tang,4.5,23 Dawson Street Dublin 2 Republic of Ireland,52,642.5762321286352
+710,FOWNES STREET UPPER,Beanhive,4.5,26 Dawson Street Dublin 2 Republic of Ireland,106,612.216937975644
+711,FOWNES STREET UPPER,Dolce Sicily,4.5,20 South Anne Street Dublin 2 Republic of Ireland,73,501.2056193821084
+712,FOWNES STREET UPPER,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,281.1488548295728
+713,FOWNES STREET UPPER,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,383.68798968544843
+714,FOWNES STREET UPPER,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,259.160799676361
+715,FOWNES STREET UPPER,The Saddle Room Restaurant,4.5,The Shelbourne Hotel 27 St Stephen's Green Dublin 2 Republic of Ireland,32,799.461697823885
+716,FOWNES STREET UPPER,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,133.73694056526688
+717,FOWNES STREET UPPER,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,155.83482693118583
+718,FOWNES STREET UPPER,Hatch and Sons,4.0,15 St Stephen's Green Dublin 2 Republic of Ireland,208,660.2222232061322
+719,SMITHFIELD,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,114.0273796076797
+720,SMITHFIELD,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,812.8959922646964
+721,SMITHFIELD,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,282.0936462587658
+722,SMITHFIELD,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,754.7323562573382
+723,SMITHFIELD,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,1016.2523655647597
+724,SMITHFIELD,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,761.9394522467301
+725,SMITHFIELD,Busy Feet & Coco Cafe,4.0,41-42 South William Street Dublin 2 Republic of Ireland,49,1215.7533221824588
+726,FRANCIS STREET,Urbanity,4.5,The Glass House 11 Coke Lane Smithfield Dublin 7 Republic of Ireland,49,586.3710020722482
+727,FRANCIS STREET,Queen of Tarts,4.5,Cork Hill Dame Street Dublin 2 Republic of Ireland,516,559.5110110504769
+728,FRANCIS STREET,Wuff,4.5,"23 Benburb Street Smithfield, 7 Republic of Ireland",115,766.0701515003559
+729,FRANCIS STREET,Bittersweet Cafe,4.5,"Unit 3 Lord Edward Street Castlegate, 2 Republic of Ireland",21,455.073508692839
+730,FRANCIS STREET,The Bakehouse,4.5,6 Bachelors Walk Dublin 1 Republic of Ireland,260,995.3464934733955
+731,FRANCIS STREET,Bibi's Cafe,4.5,14b Emorville Ave Dublin 8 Republic of Ireland,70,952.6984316901179
+732,FRANCIS STREET,Hanley's Cornish Pasties,4.5,2 Merchants Arch Temple Bar Dublin 2 Republic of Ireland,55,917.1559824041467
+733,FRANCIS STREET,San Lorenzo's,4.5,"Unit 9, Castle House S Great Georges Street Dublin 2 Republic of Ireland",151,717.384479136611
+734,FRANCIS STREET,The Tram Cafe,4.0,1 Wolfe Tone Square W Dublin 1 Republic of Ireland,12,840.1474848787739
+735,FRANCIS STREET,The Cake Café,4.0,The Daintree Building Pleasants Place Dublin 2 Republic of Ireland,82,1009.0911919313621

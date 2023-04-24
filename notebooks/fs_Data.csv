@@ -1,0 +1,1023 @@
+,station_name,name,rating,Address,rating_counts,distance
+0,GEORGES LANE,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,2049
+1,GEORGES LANE,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,380
+2,GEORGES LANE,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,800
+3,GEORGES LANE,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,993
+4,GEORGES LANE,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,970
+5,GEORGES LANE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,768
+6,GEORGES LANE,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,297
+7,GEORGES LANE,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,626
+8,GEORGES LANE,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,822
+9,GEORGES LANE,Q-Park Four Courts,,15-21 Usher's Quay,,570
+10,NORTH CIRCULAR ROAD (O'CONNELL'S),The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,344
+11,NORTH CIRCULAR ROAD (O'CONNELL'S),Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,875
+12,NORTH CIRCULAR ROAD (O'CONNELL'S),Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,963
+13,NORTH CIRCULAR ROAD (O'CONNELL'S),Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,725
+14,NORTH CIRCULAR ROAD (O'CONNELL'S),Esquires Coffee (Talbot Street),,79A Talbot St,,812
+15,NORTH CIRCULAR ROAD (O'CONNELL'S),Q-Park The Spire,,"Marlborough St, Dublin",,845
+16,NORTH CIRCULAR ROAD (O'CONNELL'S),TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,852
+17,NORTH CIRCULAR ROAD (O'CONNELL'S),Lily's Café & Restaurant,,Dublin,,857
+18,NORTH CIRCULAR ROAD (O'CONNELL'S),Coffee Cartel,,,,975
+19,PHIBSBOROUGH ROAD,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,864
+20,PHIBSBOROUGH ROAD,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,932
+21,PHIBSBOROUGH ROAD,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,901
+22,PHIBSBOROUGH ROAD,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,677
+23,PHIBSBOROUGH ROAD,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,438
+24,PHIBSBOROUGH ROAD,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,494
+25,PHIBSBOROUGH ROAD,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,740
+26,PHIBSBOROUGH ROAD,Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,885
+27,PHIBSBOROUGH ROAD,Lily's Café & Restaurant,,Dublin,,903
+28,PHIBSBOROUGH ROAD,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,947
+29,SMITHFIELD NORTH,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,2155
+30,SMITHFIELD NORTH,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,308
+31,SMITHFIELD NORTH,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,777
+32,SMITHFIELD NORTH,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,917
+33,SMITHFIELD NORTH,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,979
+34,SMITHFIELD NORTH,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,655
+35,SMITHFIELD NORTH,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,239
+36,SMITHFIELD NORTH,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,518
+37,SMITHFIELD NORTH,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,720
+38,SMITHFIELD NORTH,Costa Coffee,6.1,"30 Essex St E, Temple Bar, Dublin, Dublin City",42.0,992
+39,CLONMEL STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,948
+40,CLONMEL STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,625
+41,CLONMEL STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,897
+42,CLONMEL STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,782
+43,CLONMEL STREET,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,352
+44,CLONMEL STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,933
+45,CLONMEL STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,729
+46,CLONMEL STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,771
+47,CLONMEL STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,451
+48,CLONMEL STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,820
+49,AVONDALE ROAD,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,961
+50,AVONDALE ROAD,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,153
+51,AVONDALE ROAD,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,204
+52,AVONDALE ROAD,Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,811
+53,MOUNT STREET LOWER,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,639
+54,MOUNT STREET LOWER,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,946
+55,MOUNT STREET LOWER,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,749
+56,MOUNT STREET LOWER,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,503
+57,MOUNT STREET LOWER,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,710
+58,MOUNT STREET LOWER,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,516
+59,MOUNT STREET LOWER,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,751
+60,MOUNT STREET LOWER,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,404
+61,MOUNT STREET LOWER,Starbucks Coffee Ballsbridge,6.4,"Unit 2 The Oval, Shelbourne Rd, Dublin, Dublin City",85.0,982
+62,MOUNT STREET LOWER,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,477
+63,CHRISTCHURCH PLACE,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,706
+64,CHRISTCHURCH PLACE,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,796
+65,CHRISTCHURCH PLACE,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,931
+66,CHRISTCHURCH PLACE,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,497
+67,CHRISTCHURCH PLACE,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,609
+68,CHRISTCHURCH PLACE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,582
+69,CHRISTCHURCH PLACE,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,778
+70,CHRISTCHURCH PLACE,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,409
+71,CHRISTCHURCH PLACE,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,524
+72,CHRISTCHURCH PLACE,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,593
+73,GRANTHAM STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,783
+74,GRANTHAM STREET,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,250
+75,GRANTHAM STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,936
+76,GRANTHAM STREET,Two Fifty Square Coffee Roasters,7.7,"Williams Park, Rathmines Rd Lower, Dublin, Dublin City",114.0,975
+77,GRANTHAM STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,693
+78,GRANTHAM STREET,Jolin's Vietnamese Coffee House,5.8,"43 Clanbrassil Street Upper, Dublin",11.0,760
+79,GRANTHAM STREET,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,348
+80,GRANTHAM STREET,Q-Park Stephen's Green,,"Glover's Alley, Dublin",,605
+81,GRANTHAM STREET,RCSI / Stephen's Green Car Park,,"Stephen's Green Shopping Centre, Dublin, Dublin City",,631
+82,GRANTHAM STREET,Park Rite Drury Street Multi-Storey Car Park,,"Drury St, Dublin, Dublin City",,833
+83,PEARSE STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,463
+84,PEARSE STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,660
+85,PEARSE STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,441
+86,PEARSE STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,666
+87,PEARSE STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,806
+88,PEARSE STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,853
+89,PEARSE STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,723
+90,PEARSE STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,788
+91,PEARSE STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,914
+92,PEARSE STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,948
+93,YORK STREET EAST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,781
+94,YORK STREET EAST,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,333
+95,YORK STREET EAST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,645
+96,YORK STREET EAST,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,758
+97,YORK STREET EAST,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,653
+98,YORK STREET EAST,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,759
+99,YORK STREET EAST,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,624
+100,YORK STREET EAST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,693
+101,YORK STREET EAST,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,465
+102,YORK STREET EAST,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,146
+103,EXCISE WALK,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,943
+104,EXCISE WALK,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,722
+105,EXCISE WALK,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,907
+106,EXCISE WALK,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,429
+107,EXCISE WALK,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,718
+108,EXCISE WALK,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,213
+109,EXCISE WALK,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,572
+110,EXCISE WALK,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,149
+111,EXCISE WALK,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,105
+112,EXCISE WALK,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,166
+113,FITZWILLIAM SQUARE WEST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,478
+114,FITZWILLIAM SQUARE WEST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,671
+115,FITZWILLIAM SQUARE WEST,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,721
+116,FITZWILLIAM SQUARE WEST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,97
+117,FITZWILLIAM SQUARE WEST,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,980
+118,FITZWILLIAM SQUARE WEST,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,532
+119,FITZWILLIAM SQUARE WEST,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,766
+120,FITZWILLIAM SQUARE WEST,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,632
+121,FITZWILLIAM SQUARE WEST,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,807
+122,FITZWILLIAM SQUARE WEST,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,368
+123,PORTOBELLO ROAD,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,930
+124,PORTOBELLO ROAD,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,491
+125,PORTOBELLO ROAD,Two Fifty Square Coffee Roasters,7.7,"Williams Park, Rathmines Rd Lower, Dublin, Dublin City",114.0,540
+126,PORTOBELLO ROAD,Jolin's Vietnamese Coffee House,5.8,"43 Clanbrassil Street Upper, Dublin",11.0,478
+127,PORTOBELLO ROAD,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,132
+128,PORTOBELLO ROAD,The Art Of Coffee,,"Unit 2A, Swan Shopping Centre, Rathmines Rd Lower, Dublin, Dublin City",,765
+129,PORTOBELLO ROAD,Bark Coffee - Dublin,,"Alan Hanna's Bookshop 270 Rathmines Rd Lr, Dublin, Dublin City",,841
+130,PARNELL STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1175
+131,PARNELL STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,788
+132,PARNELL STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,147
+133,PARNELL STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,347
+134,PARNELL STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,937
+135,PARNELL STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,611
+136,PARNELL STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,771
+137,PARNELL STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,121
+138,PARNELL STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,910
+139,PARNELL STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,447
+140,FREDERICK STREET SOUTH,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,451
+141,FREDERICK STREET SOUTH,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,136
+142,FREDERICK STREET SOUTH,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,636
+143,FREDERICK STREET SOUTH,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,611
+144,FREDERICK STREET SOUTH,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,434
+145,FREDERICK STREET SOUTH,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,381
+146,FREDERICK STREET SOUTH,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,392
+147,FREDERICK STREET SOUTH,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,145
+148,FREDERICK STREET SOUTH,Costa Coffee,6.1,"30 Essex St E, Temple Bar, Dublin, Dublin City",42.0,690
+149,FREDERICK STREET SOUTH,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,1002
+150,CUSTOM HOUSE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,946
+151,CUSTOM HOUSE,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,847
+152,CUSTOM HOUSE,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,128
+153,CUSTOM HOUSE,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,683
+154,CUSTOM HOUSE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,916
+155,CUSTOM HOUSE,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,637
+156,CUSTOM HOUSE,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,620
+157,CUSTOM HOUSE,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,653
+158,CUSTOM HOUSE,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,770
+159,CUSTOM HOUSE,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,950
+160,RATHDOWN ROAD,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,129
+161,RATHDOWN ROAD,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,463
+162,RATHDOWN ROAD,Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,545
+163,HANOVER QUAY,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,986
+164,HANOVER QUAY,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,223
+165,HANOVER QUAY,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,240
+166,HANOVER QUAY,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,829
+167,HANOVER QUAY,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,755
+168,HANOVER QUAY,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,449
+169,HANOVER QUAY,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,507
+170,HANOVER QUAY,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,648
+171,HANOVER QUAY,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,727
+172,HANOVER QUAY,Coffeeangel IFSC,,"The Exchange George's Dock The Exchange Building, I.F.S.C. (George's Dock), Dublin",,830
+173,OLIVER BOND STREET,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,2169
+174,OLIVER BOND STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,340
+175,OLIVER BOND STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,243
+176,OLIVER BOND STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,693
+177,OLIVER BOND STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,313
+178,OLIVER BOND STREET,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,537
+179,OLIVER BOND STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,951
+180,OLIVER BOND STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,412
+181,OLIVER BOND STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,364
+182,OLIVER BOND STREET,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,357
+183,COLLINS BARRACKS MUSEUM,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1739
+184,COLLINS BARRACKS MUSEUM,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,417
+185,COLLINS BARRACKS MUSEUM,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,443
+186,COLLINS BARRACKS MUSEUM,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,813
+187,COLLINS BARRACKS MUSEUM,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,515
+188,COLLINS BARRACKS MUSEUM,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,380
+189,COLLINS BARRACKS MUSEUM,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,696
+190,COLLINS BARRACKS MUSEUM,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,809
+191,COLLINS BARRACKS MUSEUM,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,457
+192,COLLINS BARRACKS MUSEUM,Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,460
+193,BROOKFIELD ROAD,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,907
+194,BROOKFIELD ROAD,Coffee District,,,,642
+195,BENSON STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,464
+196,BENSON STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,416
+197,BENSON STREET,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,964
+198,BENSON STREET,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,332
+199,BENSON STREET,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,619
+200,BENSON STREET,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,731
+201,BENSON STREET,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,926
+202,EARLSFORT TERRACE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,840
+203,EARLSFORT TERRACE,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,810
+204,EARLSFORT TERRACE,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,913
+205,EARLSFORT TERRACE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,296
+206,EARLSFORT TERRACE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,511
+207,EARLSFORT TERRACE,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,989
+208,EARLSFORT TERRACE,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,857
+209,EARLSFORT TERRACE,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,687
+210,EARLSFORT TERRACE,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,986
+211,EARLSFORT TERRACE,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,936
+212,GOLDEN LANE,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,595
+213,GOLDEN LANE,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,409
+214,GOLDEN LANE,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,725
+215,GOLDEN LANE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,951
+216,GOLDEN LANE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,858
+217,GOLDEN LANE,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,708
+218,GOLDEN LANE,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,610
+219,GOLDEN LANE,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,580
+220,GOLDEN LANE,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,443
+221,GOLDEN LANE,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,373
+222,DEVERELL PLACE,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1179
+223,DEVERELL PLACE,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,479
+224,DEVERELL PLACE,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,531
+225,DEVERELL PLACE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,934
+226,DEVERELL PLACE,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,838
+227,DEVERELL PLACE,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,885
+228,DEVERELL PLACE,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,535
+229,DEVERELL PLACE,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,680
+230,DEVERELL PLACE,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,361
+231,DEVERELL PLACE,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,371
+232,WILTON TERRACE (PARK),Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,734
+233,WILTON TERRACE (PARK),Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,821
+234,WILTON TERRACE (PARK),Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,1008
+235,WILTON TERRACE (PARK),The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,929
+236,WILTON TERRACE (PARK),Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,430
+237,WILTON TERRACE (PARK),Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,186
+238,WILTON TERRACE (PARK),The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,863
+239,WILTON TERRACE (PARK),High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,327
+240,WILTON TERRACE (PARK),The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,419
+241,WILTON TERRACE (PARK),Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,593
+242,JOHN STREET WEST,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,2408
+243,JOHN STREET WEST,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,432
+244,JOHN STREET WEST,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,466
+245,JOHN STREET WEST,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,488
+246,JOHN STREET WEST,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,222
+247,JOHN STREET WEST,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,756
+248,JOHN STREET WEST,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,833
+249,JOHN STREET WEST,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,518
+250,JOHN STREET WEST,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,257
+251,JOHN STREET WEST,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,970
+252,FENIAN STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,286
+253,FENIAN STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,843
+254,FENIAN STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,489
+255,FENIAN STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,552
+256,FENIAN STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,532
+257,FENIAN STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,622
+258,FENIAN STREET,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,829
+259,FENIAN STREET,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,884
+260,FENIAN STREET,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,791
+261,FENIAN STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,746
+262,MERRION SQUARE SOUTH,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,208
+263,MERRION SQUARE SOUTH,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,525
+264,MERRION SQUARE SOUTH,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,865
+265,MERRION SQUARE SOUTH,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,762
+266,MERRION SQUARE SOUTH,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,303
+267,MERRION SQUARE SOUTH,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,550
+268,MERRION SQUARE SOUTH,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,918
+269,MERRION SQUARE SOUTH,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,559
+270,MERRION SQUARE SOUTH,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,759
+271,MERRION SQUARE SOUTH,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,93
+272,SOUTH DOCK ROAD,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,681
+273,SOUTH DOCK ROAD,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,499
+274,SOUTH DOCK ROAD,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,591
+275,SOUTH DOCK ROAD,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,897
+276,SOUTH DOCK ROAD,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,970
+277,CITY QUAY,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,776
+278,CITY QUAY,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,594
+279,CITY QUAY,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,727
+280,CITY QUAY,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,440
+281,CITY QUAY,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,694
+282,CITY QUAY,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,304
+283,CITY QUAY,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,884
+284,CITY QUAY,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,596
+285,CITY QUAY,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,158
+286,CITY QUAY,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,156
+287,EXCHEQUER STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,928
+288,EXCHEQUER STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,388
+289,EXCHEQUER STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,726
+290,EXCHEQUER STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,769
+291,EXCHEQUER STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,959
+292,EXCHEQUER STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,690
+293,EXCHEQUER STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,825
+294,EXCHEQUER STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,281
+295,EXCHEQUER STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,209
+296,EXCHEQUER STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,895
+297,THE POINT,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,678
+298,THE POINT,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,740
+299,THE POINT,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,117
+300,THE POINT,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,391
+301,THE POINT,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,866
+302,BROADSTONE,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,982
+303,BROADSTONE,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,688
+304,BROADSTONE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,732
+305,BROADSTONE,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,926
+306,BROADSTONE,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,719
+307,BROADSTONE,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,565
+308,BROADSTONE,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,869
+309,BROADSTONE,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,919
+310,BROADSTONE,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,540
+311,BROADSTONE,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,633
+312,HATCH STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,961
+313,HATCH STREET,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,840
+314,HATCH STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,997
+315,HATCH STREET,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,165
+316,HATCH STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,652
+317,HATCH STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,994
+318,HATCH STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,678
+319,HATCH STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,984
+320,HATCH STREET,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,544
+321,HATCH STREET,Q-Park Stephen's Green,,"Glover's Alley, Dublin",,595
+322,LIME STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,797
+323,LIME STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,772
+324,LIME STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,820
+325,LIME STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,259
+326,LIME STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,531
+327,LIME STREET,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,405
+328,LIME STREET,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,747
+329,LIME STREET,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,294
+330,LIME STREET,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,35
+331,LIME STREET,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,287
+332,CHARLEMONT PLACE,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,513
+333,CHARLEMONT PLACE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,283
+334,CHARLEMONT PLACE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,870
+335,CHARLEMONT PLACE,Two Fifty Square Coffee Roasters,7.7,"Williams Park, Rathmines Rd Lower, Dublin, Dublin City",114.0,711
+336,CHARLEMONT PLACE,Jolin's Vietnamese Coffee House,5.8,"43 Clanbrassil Street Upper, Dublin",11.0,997
+337,CHARLEMONT PLACE,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,486
+338,CHARLEMONT PLACE,The Art Of Coffee,,"Unit 2A, Swan Shopping Centre, Rathmines Rd Lower, Dublin, Dublin City",,876
+339,CHARLEMONT PLACE,Bark Coffee - Dublin,,"Alan Hanna's Bookshop 270 Rathmines Rd Lr, Dublin, Dublin City",,958
+340,CHARLEMONT PLACE,Q-Park Stephen's Green,,"Glover's Alley, Dublin",,970
+341,HARDWICKE PLACE,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,743
+342,HARDWICKE PLACE,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,597
+343,HARDWICKE PLACE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,1008
+344,HARDWICKE PLACE,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,661
+345,HARDWICKE PLACE,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,243
+346,HARDWICKE PLACE,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,682
+347,HARDWICKE PLACE,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,765
+348,HARDWICKE PLACE,Lily's Café & Restaurant,,Dublin,,482
+349,HARDWICKE PLACE,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,521
+350,HARDWICKE PLACE,Q-Park The Spire,,"Marlborough St, Dublin",,678
+351,WOLFE TONE STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,802
+352,WOLFE TONE STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1043
+353,WOLFE TONE STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,843
+354,WOLFE TONE STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,416
+355,WOLFE TONE STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,77
+356,WOLFE TONE STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,813
+357,WOLFE TONE STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,671
+358,WOLFE TONE STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,467
+359,WOLFE TONE STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,645
+360,WOLFE TONE STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,369
+361,GREEK STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,403
+362,GREEK STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1143
+363,GREEK STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,829
+364,GREEK STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,838
+365,GREEK STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,723
+366,GREEK STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,835
+367,GREEK STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,350
+368,GREEK STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,440
+369,GREEK STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,250
+370,GREEK STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,670
+371,GUILD STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,942
+372,GUILD STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,364
+373,GUILD STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,654
+374,GUILD STREET,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,373
+375,GUILD STREET,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,737
+376,GUILD STREET,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,365
+377,GUILD STREET,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,267
+378,GUILD STREET,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,308
+379,GUILD STREET,Coffeeangel IFSC,,"The Exchange George's Dock The Exchange Building, I.F.S.C. (George's Dock), Dublin",,377
+380,GUILD STREET,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,478
+381,HERBERT PLACE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,711
+382,HERBERT PLACE,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,971
+383,HERBERT PLACE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,506
+384,HERBERT PLACE,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,48
+385,HERBERT PLACE,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,709
+386,HERBERT PLACE,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,128
+387,HERBERT PLACE,Starbucks Coffee Ballsbridge,6.4,"Unit 2 The Oval, Shelbourne Rd, Dublin, Dublin City",85.0,977
+388,HERBERT PLACE,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,249
+389,HERBERT PLACE,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,575
+390,HERBERT PLACE,Q-Park Dawson Street,,"Schoolhouse Lane East, Dawson Street Car Park",,947
+391,HIGH STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,449
+392,HIGH STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1117
+393,HIGH STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,602
+394,HIGH STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,483
+395,HIGH STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,344
+396,HIGH STREET,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,895
+397,HIGH STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,703
+398,HIGH STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,532
+399,HIGH STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,182
+400,HIGH STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,823
+401,NORTH CIRCULAR ROAD,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,450
+402,NORTH CIRCULAR ROAD,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,905
+403,NORTH CIRCULAR ROAD,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,968
+404,NORTH CIRCULAR ROAD,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,574
+405,NORTH CIRCULAR ROAD,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,948
+406,NORTH CIRCULAR ROAD,Lily's Café & Restaurant,,Dublin,,757
+407,NORTH CIRCULAR ROAD,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,785
+408,NORTH CIRCULAR ROAD,Q-Park The Spire,,"Marlborough St, Dublin",,903
+409,NORTH CIRCULAR ROAD,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,917
+410,WESTERN WAY,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,546
+411,WESTERN WAY,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,715
+412,WESTERN WAY,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,588
+413,WESTERN WAY,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,373
+414,WESTERN WAY,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,719
+415,WESTERN WAY,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,779
+416,WESTERN WAY,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,483
+417,WESTERN WAY,Lily's Café & Restaurant,,Dublin,,580
+418,WESTERN WAY,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,624
+419,WESTERN WAY,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,716
+420,TALBOT STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1168
+421,TALBOT STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,448
+422,TALBOT STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,689
+423,TALBOT STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,904
+424,TALBOT STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,921
+425,TALBOT STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,688
+426,TALBOT STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,840
+427,TALBOT STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,513
+428,TALBOT STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,508
+429,TALBOT STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,972
+430,NEWMAN HOUSE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,751
+431,NEWMAN HOUSE,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,452
+432,NEWMAN HOUSE,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,700
+433,NEWMAN HOUSE,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,883
+434,NEWMAN HOUSE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,485
+435,NEWMAN HOUSE,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,950
+436,NEWMAN HOUSE,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,805
+437,NEWMAN HOUSE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,566
+438,NEWMAN HOUSE,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,653
+439,NEWMAN HOUSE,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,343
+440,SIR PATRICK DUN'S,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,658
+441,SIR PATRICK DUN'S,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,942
+442,SIR PATRICK DUN'S,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,605
+443,SIR PATRICK DUN'S,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,351
+444,SIR PATRICK DUN'S,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,803
+445,SIR PATRICK DUN'S,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,667
+446,SIR PATRICK DUN'S,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,848
+447,SIR PATRICK DUN'S,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,556
+448,SIR PATRICK DUN'S,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,617
+449,SIR PATRICK DUN'S,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,623
+450,NEW CENTRAL BANK,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,463
+451,NEW CENTRAL BANK,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,610
+452,NEW CENTRAL BANK,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,788
+453,NEW CENTRAL BANK,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,782
+454,NEW CENTRAL BANK,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,143
+455,NEW CENTRAL BANK,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,288
+456,NEW CENTRAL BANK,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,612
+457,NEW CENTRAL BANK,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,727
+458,NEW CENTRAL BANK,Coffeeangel IFSC,,"The Exchange George's Dock The Exchange Building, I.F.S.C. (George's Dock), Dublin",,792
+459,GRANGEGORMAN LOWER (CENTRAL),Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,927
+460,GRANGEGORMAN LOWER (CENTRAL),The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,991
+461,GRANGEGORMAN LOWER (CENTRAL),Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,849
+462,GRANGEGORMAN LOWER (CENTRAL),Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,971
+463,GRANGEGORMAN LOWER (CENTRAL),Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,435
+464,GRANGEGORMAN LOWER (CENTRAL),Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,582
+465,GRANGEGORMAN LOWER (CENTRAL),Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,684
+466,GRANGEGORMAN LOWER (CENTRAL),Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,869
+467,KING STREET NORTH,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,532
+468,KING STREET NORTH,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,696
+469,KING STREET NORTH,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,388
+470,KING STREET NORTH,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,501
+471,KING STREET NORTH,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,581
+472,KING STREET NORTH,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,867
+473,KING STREET NORTH,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,682
+474,KING STREET NORTH,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,821
+475,KING STREET NORTH,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,855
+476,KING STREET NORTH,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,860
+477,KILLARNEY STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,989
+478,KILLARNEY STREET,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,764
+479,KILLARNEY STREET,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,616
+480,KILLARNEY STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,964
+481,KILLARNEY STREET,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,433
+482,KILLARNEY STREET,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,758
+483,KILLARNEY STREET,Coffeeangel IFSC,,"The Exchange George's Dock The Exchange Building, I.F.S.C. (George's Dock), Dublin",,619
+484,KILLARNEY STREET,Esquires Coffee (Talbot Street),,79A Talbot St,,637
+485,KILLARNEY STREET,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,735
+486,KILLARNEY STREET,Coffee Cartel,,,,783
+487,HERBERT STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,588
+488,HERBERT STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,901
+489,HERBERT STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,843
+490,HERBERT STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,451
+491,HERBERT STREET,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,194
+492,HERBERT STREET,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,768
+493,HERBERT STREET,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,181
+494,HERBERT STREET,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,325
+495,HERBERT STREET,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,457
+496,HERBERT STREET,Q-Park Dawson Street,,"Schoolhouse Lane East, Dawson Street Car Park",,857
+497,HANOVER QUAY EAST,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,584
+498,HANOVER QUAY EAST,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,494
+499,HANOVER QUAY EAST,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,387
+500,HANOVER QUAY EAST,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,694
+501,HANOVER QUAY EAST,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,855
+502,CUSTOM HOUSE QUAY,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,875
+503,CUSTOM HOUSE QUAY,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,473
+504,CUSTOM HOUSE QUAY,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,757
+505,CUSTOM HOUSE QUAY,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,620
+506,CUSTOM HOUSE QUAY,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,881
+507,CUSTOM HOUSE QUAY,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,964
+508,CUSTOM HOUSE QUAY,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,213
+509,CUSTOM HOUSE QUAY,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,910
+510,CUSTOM HOUSE QUAY,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,872
+511,CUSTOM HOUSE QUAY,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,863
+512,MOLESWORTH STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,524
+513,MOLESWORTH STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,50
+514,MOLESWORTH STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,681
+515,MOLESWORTH STREET,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,974
+516,MOLESWORTH STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,578
+517,MOLESWORTH STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,403
+518,MOLESWORTH STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,321
+519,MOLESWORTH STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,305
+520,MOLESWORTH STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,159
+521,MOLESWORTH STREET,Costa Coffee,6.1,"30 Essex St E, Temple Bar, Dublin, Dublin City",42.0,645
+522,GEORGES QUAY,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,827
+523,GEORGES QUAY,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,839
+524,GEORGES QUAY,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,195
+525,GEORGES QUAY,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,843
+526,GEORGES QUAY,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,867
+527,GEORGES QUAY,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,756
+528,GEORGES QUAY,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,700
+529,GEORGES QUAY,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,838
+530,GEORGES QUAY,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,829
+531,GEORGES QUAY,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,689
+532,KILMAINHAM LANE,Coffee District,,,,817
+533,KILMAINHAM LANE,Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,993
+534,MOUNT BROWN,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1425
+535,MOUNT BROWN,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,889
+536,MOUNT BROWN,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,600
+537,MOUNT BROWN,Coffee District,,,,312
+538,MOUNT BROWN,Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,723
+539,MOUNT BROWN,Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,763
+540,MOUNT BROWN,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,944
+541,MARKET STREET SOUTH,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1841
+542,MARKET STREET SOUTH,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,761
+543,MARKET STREET SOUTH,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,270
+544,MARKET STREET SOUTH,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,1002
+545,MARKET STREET SOUTH,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,608
+546,MARKET STREET SOUTH,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,125
+547,MARKET STREET SOUTH,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,796
+548,MARKET STREET SOUTH,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,869
+549,MARKET STREET SOUTH,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,832
+550,MARKET STREET SOUTH,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,320
+551,KEVIN STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,697
+552,KEVIN STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,416
+553,KEVIN STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,825
+554,KEVIN STREET,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,649
+555,KEVIN STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,973
+556,KEVIN STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,918
+557,KEVIN STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,846
+558,KEVIN STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,686
+559,KEVIN STREET,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,443
+560,KEVIN STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,859
+561,ECCLES STREET EAST,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,832
+562,ECCLES STREET EAST,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,733
+563,ECCLES STREET EAST,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,795
+564,ECCLES STREET EAST,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,379
+565,ECCLES STREET EAST,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,846
+566,ECCLES STREET EAST,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,926
+567,ECCLES STREET EAST,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,632
+568,ECCLES STREET EAST,Lily's Café & Restaurant,,Dublin,,649
+569,ECCLES STREET EAST,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,691
+570,ECCLES STREET EAST,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,834
+571,GRAND CANAL DOCK,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,827
+572,GRAND CANAL DOCK,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,252
+573,GRAND CANAL DOCK,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,50
+574,GRAND CANAL DOCK,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,892
+575,GRAND CANAL DOCK,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,957
+576,GRAND CANAL DOCK,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,791
+577,GRAND CANAL DOCK,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,531
+578,GRAND CANAL DOCK,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,640
+579,GRAND CANAL DOCK,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,779
+580,GRAND CANAL DOCK,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,836
+581,MERRION SQUARE EAST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,270
+582,MERRION SQUARE EAST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,575
+583,MERRION SQUARE EAST,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,710
+584,MERRION SQUARE EAST,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,598
+585,MERRION SQUARE EAST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,467
+586,MERRION SQUARE EAST,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,607
+587,MERRION SQUARE EAST,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,576
+588,MERRION SQUARE EAST,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,828
+589,MERRION SQUARE EAST,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,957
+590,MERRION SQUARE EAST,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,231
+591,YORK STREET WEST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,949
+592,YORK STREET WEST,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,437
+593,YORK STREET WEST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,771
+594,YORK STREET WEST,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,576
+595,YORK STREET WEST,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,950
+596,YORK STREET WEST,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,734
+597,YORK STREET WEST,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,966
+598,YORK STREET WEST,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,699
+599,YORK STREET WEST,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,601
+600,YORK STREET WEST,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,436
+601,ST. STEPHEN'S GREEN SOUTH,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,820
+602,ST. STEPHEN'S GREEN SOUTH,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,449
+603,ST. STEPHEN'S GREEN SOUTH,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,733
+604,ST. STEPHEN'S GREEN SOUTH,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,783
+605,ST. STEPHEN'S GREEN SOUTH,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,513
+606,ST. STEPHEN'S GREEN SOUTH,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,898
+607,ST. STEPHEN'S GREEN SOUTH,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,764
+608,ST. STEPHEN'S GREEN SOUTH,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,662
+609,ST. STEPHEN'S GREEN SOUTH,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,605
+610,ST. STEPHEN'S GREEN SOUTH,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,286
+611,DENMARK STREET GREAT,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,753
+612,DENMARK STREET GREAT,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,455
+613,DENMARK STREET GREAT,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,917
+614,DENMARK STREET GREAT,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,518
+615,DENMARK STREET GREAT,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,178
+616,DENMARK STREET GREAT,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,504
+617,DENMARK STREET GREAT,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,588
+618,DENMARK STREET GREAT,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,865
+619,DENMARK STREET GREAT,Lily's Café & Restaurant,,Dublin,,308
+620,DENMARK STREET GREAT,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,340
+621,ROYAL HOSPITAL,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1244
+622,ROYAL HOSPITAL,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,856
+623,ROYAL HOSPITAL,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,567
+624,ROYAL HOSPITAL,Coffee District,,,,304
+625,ROYAL HOSPITAL,Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,508
+626,ROYAL HOSPITAL,Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,517
+627,ROYAL HOSPITAL,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,913
+628,HEUSTON STATION (CAR PARK),Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,992
+629,HEUSTON STATION (CAR PARK),Container Coffee,8.8,"161 Thomas St, Dublin",17.0,983
+630,HEUSTON STATION (CAR PARK),Phoenix Park Tea Rooms,8.5,"Beside Dublin Zoo Chesterfield Avenue, City Centre North, City Centre, Dublin, Dublin City",100.0,729
+631,HEUSTON STATION (CAR PARK),Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,737
+632,HEUSTON STATION (CAR PARK),Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,245
+633,HEUSTON STATION (CAR PARK),Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,375
+634,HEUSTON STATION (CAR PARK),Coffee District,,,,571
+635,GRANGEGORMAN LOWER (NORTH),Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,936
+636,GRANGEGORMAN LOWER (NORTH),Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,975
+637,GRANGEGORMAN LOWER (NORTH),Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,348
+638,GRANGEGORMAN LOWER (NORTH),Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,576
+639,GRANGEGORMAN LOWER (NORTH),Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,605
+640,GRANGEGORMAN LOWER (NORTH),Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,919
+641,ST. STEPHEN'S GREEN EAST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,450
+642,ST. STEPHEN'S GREEN EAST,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,401
+643,ST. STEPHEN'S GREEN EAST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,490
+644,ST. STEPHEN'S GREEN EAST,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,688
+645,ST. STEPHEN'S GREEN EAST,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,979
+646,ST. STEPHEN'S GREEN EAST,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,807
+647,ST. STEPHEN'S GREEN EAST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,285
+648,ST. STEPHEN'S GREEN EAST,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,696
+649,ST. STEPHEN'S GREEN EAST,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,813
+650,ST. STEPHEN'S GREEN EAST,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,481
+651,HEUSTON STATION (CENTRAL),Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1064
+652,HEUSTON STATION (CENTRAL),Container Coffee,8.8,"161 Thomas St, Dublin",17.0,912
+653,HEUSTON STATION (CENTRAL),Phoenix Park Tea Rooms,8.5,"Beside Dublin Zoo Chesterfield Avenue, City Centre North, City Centre, Dublin, Dublin City",100.0,799
+654,HEUSTON STATION (CENTRAL),Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,665
+655,HEUSTON STATION (CENTRAL),Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,237
+656,HEUSTON STATION (CENTRAL),Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,326
+657,HEUSTON STATION (CENTRAL),Coffee District,,,,503
+658,HEUSTON STATION (CENTRAL),Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,965
+659,TOWNSEND STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,699
+660,TOWNSEND STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,606
+661,TOWNSEND STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,139
+662,TOWNSEND STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,953
+663,TOWNSEND STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,858
+664,TOWNSEND STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,963
+665,TOWNSEND STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,565
+666,TOWNSEND STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,478
+667,TOWNSEND STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,813
+668,TOWNSEND STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,596
+669,ECCLES STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,946
+670,ECCLES STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,627
+671,ECCLES STREET,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,329
+672,ECCLES STREET,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,571
+673,ECCLES STREET,Lily's Café & Restaurant,,Dublin,,903
+674,ECCLES STREET,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,948
+675,ECCLES STREET,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,959
+676,ECCLES STREET,Vagya Restaurant,,"68-70 Botanic Road, North Dublin, Glasnevin, Dublin",,983
+677,PORTOBELLO HARBOUR,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,765
+678,PORTOBELLO HARBOUR,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,338
+679,PORTOBELLO HARBOUR,Two Fifty Square Coffee Roasters,7.7,"Williams Park, Rathmines Rd Lower, Dublin, Dublin City",114.0,560
+680,PORTOBELLO HARBOUR,Jolin's Vietnamese Coffee House,5.8,"43 Clanbrassil Street Upper, Dublin",11.0,667
+681,PORTOBELLO HARBOUR,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,179
+682,PORTOBELLO HARBOUR,The Art Of Coffee,,"Unit 2A, Swan Shopping Centre, Rathmines Rd Lower, Dublin, Dublin City",,773
+683,PORTOBELLO HARBOUR,Bark Coffee - Dublin,,"Alan Hanna's Bookshop 270 Rathmines Rd Lr, Dublin, Dublin City",,855
+684,MATER HOSPITAL,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,736
+685,MATER HOSPITAL,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,928
+686,MATER HOSPITAL,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,569
+687,MATER HOSPITAL,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,618
+688,MATER HOSPITAL,Lily's Café & Restaurant,,Dublin,,824
+689,MATER HOSPITAL,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,863
+690,MATER HOSPITAL,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,905
+691,MATER HOSPITAL,Vagya Restaurant,,"68-70 Botanic Road, North Dublin, Glasnevin, Dublin",,978
+692,BLESSINGTON STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,653
+693,BLESSINGTON STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,917
+694,BLESSINGTON STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,707
+695,BLESSINGTON STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,357
+696,BLESSINGTON STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,801
+697,BLESSINGTON STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,874
+698,BLESSINGTON STREET,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,591
+699,BLESSINGTON STREET,Lily's Café & Restaurant,,Dublin,,625
+700,BLESSINGTON STREET,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,671
+701,BLESSINGTON STREET,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,674
+702,JAMES STREET,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1785
+703,JAMES STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,669
+704,JAMES STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,215
+705,JAMES STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,629
+706,JAMES STREET,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,79
+707,JAMES STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,694
+708,JAMES STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,814
+709,JAMES STREET,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,808
+710,JAMES STREET,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,272
+711,JAMES STREET,Coffee District,,,,370
+712,MOUNTJOY SQUARE EAST,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,468
+713,MOUNTJOY SQUARE EAST,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,724
+714,MOUNTJOY SQUARE EAST,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,777
+715,MOUNTJOY SQUARE EAST,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,533
+716,MOUNTJOY SQUARE EAST,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,687
+717,MOUNTJOY SQUARE EAST,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,760
+718,MOUNTJOY SQUARE EAST,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,713
+719,MOUNTJOY SQUARE EAST,Lily's Café & Restaurant,,Dublin,,545
+720,MOUNTJOY SQUARE EAST,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,550
+721,MOUNTJOY SQUARE EAST,Q-Park The Spire,,"Marlborough St, Dublin",,595
+722,MERRION SQUARE WEST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,110
+723,MERRION SQUARE WEST,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,471
+724,MERRION SQUARE WEST,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,845
+725,MERRION SQUARE WEST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,289
+726,MERRION SQUARE WEST,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,942
+727,MERRION SQUARE WEST,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,915
+728,MERRION SQUARE WEST,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,979
+729,MERRION SQUARE WEST,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,803
+730,MERRION SQUARE WEST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,326
+731,MERRION SQUARE WEST,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,757
+732,CONVENTION CENTRE,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,332
+733,CONVENTION CENTRE,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,584
+734,CONVENTION CENTRE,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,541
+735,CONVENTION CENTRE,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,903
+736,CONVENTION CENTRE,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,529
+737,CONVENTION CENTRE,Park Rite Convention Centre Car Park,,"Uppr Mayor St, Dublin, Dublin City",,373
+738,CONVENTION CENTRE,The Art of Coffee,,"17-19 Sir John Rodgerson's Quay (Lime Street), Dublin",,377
+739,CONVENTION CENTRE,Dime Coffee,,"81-82 North Wall Quay, Dublin, Dublin City",,395
+740,CONVENTION CENTRE,Park Rite IFSC/Jury's Car Park,,"Commons St, Dublin, Dublin City",,474
+741,CONVENTION CENTRE,Coffeeangel IFSC,,"The Exchange George's Dock The Exchange Building, I.F.S.C. (George's Dock), Dublin",,545
+742,HARDWICKE STREET,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,909
+743,HARDWICKE STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,430
+744,HARDWICKE STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,818
+745,HARDWICKE STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,492
+746,HARDWICKE STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,78
+747,HARDWICKE STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,546
+748,HARDWICKE STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,625
+749,HARDWICKE STREET,Lily's Café & Restaurant,,Dublin,,354
+750,HARDWICKE STREET,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,399
+751,HARDWICKE STREET,Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,571
+752,PARKGATE STREET,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1307
+753,PARKGATE STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,855
+754,PARKGATE STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,707
+755,PARKGATE STREET,Phoenix Park Tea Rooms,8.5,"Beside Dublin Zoo Chesterfield Avenue, City Centre North, City Centre, Dublin, Dublin City",100.0,972
+756,PARKGATE STREET,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,563
+757,PARKGATE STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,816
+758,PARKGATE STREET,Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,65
+759,PARKGATE STREET,Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,212
+760,PARKGATE STREET,Coffee District,,,,582
+761,PARKGATE STREET,Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,749
+762,DAME STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,871
+763,DAME STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,626
+764,DAME STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,852
+765,DAME STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,678
+766,DAME STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,840
+767,DAME STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,882
+768,DAME STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,513
+769,DAME STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,931
+770,DAME STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,590
+771,DAME STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,298
+772,HEUSTON BRIDGE (SOUTH),Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1326
+773,HEUSTON BRIDGE (SOUTH),Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,861
+774,HEUSTON BRIDGE (SOUTH),Container Coffee,8.8,"161 Thomas St, Dublin",17.0,656
+775,HEUSTON BRIDGE (SOUTH),Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,483
+776,HEUSTON BRIDGE (SOUTH),Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,832
+777,HEUSTON BRIDGE (SOUTH),Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,37
+778,HEUSTON BRIDGE (SOUTH),Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,238
+779,HEUSTON BRIDGE (SOUTH),Coffee District,,,,484
+780,HEUSTON BRIDGE (SOUTH),Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,702
+781,HEUSTON BRIDGE (SOUTH),Q-Park Four Courts,,15-21 Usher's Quay,,962
+782,CATHAL BRUGHA STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1238
+783,CATHAL BRUGHA STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,663
+784,CATHAL BRUGHA STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,189
+785,CATHAL BRUGHA STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,663
+786,CATHAL BRUGHA STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,752
+787,CATHAL BRUGHA STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,866
+788,CATHAL BRUGHA STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,218
+789,CATHAL BRUGHA STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,372
+790,CATHAL BRUGHA STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,118
+791,CATHAL BRUGHA STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,200
+792,SANDWITH STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,603
+793,SANDWITH STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,897
+794,SANDWITH STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,567
+795,SANDWITH STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,572
+796,SANDWITH STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,452
+797,SANDWITH STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,648
+798,SANDWITH STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,945
+799,SANDWITH STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,986
+800,SANDWITH STREET,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,469
+801,SANDWITH STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,755
+802,BUCKINGHAM STREET LOWER,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,786
+803,BUCKINGHAM STREET LOWER,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,864
+804,BUCKINGHAM STREET LOWER,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,943
+805,BUCKINGHAM STREET LOWER,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,960
+806,BUCKINGHAM STREET LOWER,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,974
+807,BUCKINGHAM STREET LOWER,Coffeeangel CHQ,7.4,"Sean O'Casey Bridge, Custom House Quay (Commons Street), Dublin, Dublin City",22.0,491
+808,BUCKINGHAM STREET LOWER,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,793
+809,BUCKINGHAM STREET LOWER,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,814
+810,BUCKINGHAM STREET LOWER,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,233
+811,BUCKINGHAM STREET LOWER,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,616
+812,ROTHE ABBEY,Coffee District,,,,858
+813,CHARLEVILLE ROAD,Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,230
+814,CHARLEVILLE ROAD,Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,483
+815,CHARLEVILLE ROAD,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,547
+816,PRINCES STREET / O'CONNELL STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,890
+817,PRINCES STREET / O'CONNELL STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,404
+818,PRINCES STREET / O'CONNELL STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,353
+819,PRINCES STREET / O'CONNELL STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,543
+820,PRINCES STREET / O'CONNELL STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,427
+821,PRINCES STREET / O'CONNELL STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,521
+822,PRINCES STREET / O'CONNELL STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,304
+823,PRINCES STREET / O'CONNELL STREET,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,684
+824,PRINCES STREET / O'CONNELL STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,691
+825,PRINCES STREET / O'CONNELL STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,232
+826,UPPER SHERRARD STREET,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,516
+827,UPPER SHERRARD STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,772
+828,UPPER SHERRARD STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,835
+829,UPPER SHERRARD STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,447
+830,UPPER SHERRARD STREET,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,816
+831,UPPER SHERRARD STREET,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,899
+832,UPPER SHERRARD STREET,Lily's Café & Restaurant,,Dublin,,624
+833,UPPER SHERRARD STREET,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,653
+834,UPPER SHERRARD STREET,Q-Park The Spire,,"Marlborough St, Dublin",,775
+835,UPPER SHERRARD STREET,Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,926
+836,FITZWILLIAM SQUARE EAST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,548
+837,FITZWILLIAM SQUARE EAST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,789
+838,FITZWILLIAM SQUARE EAST,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,799
+839,FITZWILLIAM SQUARE EAST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,195
+840,FITZWILLIAM SQUARE EAST,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,377
+841,FITZWILLIAM SQUARE EAST,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,925
+842,FITZWILLIAM SQUARE EAST,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,487
+843,FITZWILLIAM SQUARE EAST,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,949
+844,FITZWILLIAM SQUARE EAST,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,415
+845,FITZWILLIAM SQUARE EAST,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,612
+846,GRATTAN STREET,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,446
+847,GRATTAN STREET,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,731
+848,GRATTAN STREET,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,603
+849,GRATTAN STREET,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,435
+850,GRATTAN STREET,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,632
+851,GRATTAN STREET,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,637
+852,GRATTAN STREET,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,988
+853,GRATTAN STREET,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,565
+854,GRATTAN STREET,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,988
+855,GRATTAN STREET,Oly's Bar & Restaurant,5.3,"Custom House Quay / Jurys Inn Custom House, Dublin, Dublin 1, Dublin, Dublin City",25.0,952
+856,ST JAMES HOSPITAL (LUAS),Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1636
+857,ST JAMES HOSPITAL (LUAS),Container Coffee,8.8,"161 Thomas St, Dublin",17.0,631
+858,ST JAMES HOSPITAL (LUAS),Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,949
+859,ST JAMES HOSPITAL (LUAS),Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,360
+860,ST JAMES HOSPITAL (LUAS),Coffee District,,,,156
+861,ST JAMES HOSPITAL (LUAS),Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,676
+862,ST JAMES HOSPITAL (LUAS),Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,684
+863,ST JAMES HOSPITAL (LUAS),Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,791
+864,HARCOURT TERRACE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,958
+865,HARCOURT TERRACE,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,637
+866,HARCOURT TERRACE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,289
+867,HARCOURT TERRACE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,596
+868,HARCOURT TERRACE,Two Fifty Square Coffee Roasters,7.7,"Williams Park, Rathmines Rd Lower, Dublin, Dublin City",114.0,988
+869,HARCOURT TERRACE,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,830
+870,HARCOURT TERRACE,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,859
+871,HARCOURT TERRACE,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,969
+872,HARCOURT TERRACE,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,653
+873,HARCOURT TERRACE,Q-Park Stephen's Green,,"Glover's Alley, Dublin",,785
+874,BOLTON STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,778
+875,BOLTON STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1344
+876,BOLTON STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,440
+877,BOLTON STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,310
+878,BOLTON STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,756
+879,BOLTON STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,763
+880,BOLTON STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,768
+881,BOLTON STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,945
+882,BOLTON STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,434
+883,BOLTON STREET,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,575
+884,JERVIS STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,838
+885,JERVIS STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,960
+886,JERVIS STREET,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,778
+887,JERVIS STREET,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,436
+888,JERVIS STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,122
+889,JERVIS STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,857
+890,JERVIS STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,680
+891,JERVIS STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,384
+892,JERVIS STREET,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,561
+893,JERVIS STREET,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,380
+894,ORMOND QUAY UPPER,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,738
+895,ORMOND QUAY UPPER,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,827
+896,ORMOND QUAY UPPER,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,866
+897,ORMOND QUAY UPPER,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,828
+898,ORMOND QUAY UPPER,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,880
+899,ORMOND QUAY UPPER,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,697
+900,ORMOND QUAY UPPER,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,275
+901,ORMOND QUAY UPPER,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,782
+902,ORMOND QUAY UPPER,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,505
+903,ORMOND QUAY UPPER,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,328
+904,GRANGEGORMAN LOWER (SOUTH),Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,870
+905,GRANGEGORMAN LOWER (SOUTH),The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,961
+906,GRANGEGORMAN LOWER (SOUTH),Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,791
+907,GRANGEGORMAN LOWER (SOUTH),Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,988
+908,GRANGEGORMAN LOWER (SOUTH),Highfield Park - Uninest Student Accommodation,,"Highfield Park, 274 N Circular Rd, Dublin",,492
+909,GRANGEGORMAN LOWER (SOUTH),Park Shopping Centre,,"44 Prussia St, Stoneybatter, Dublin City",,578
+910,GRANGEGORMAN LOWER (SOUTH),Coffee Addiction,,"340 North Circular Rd, Phibsborough, Dublin, Dublin City",,743
+911,GRANGEGORMAN LOWER (SOUTH),Park Rite Parnell Centre Car Park,,"Loftus Ln, Parnell St, Dublin, Dublin City",,853
+912,MOUNTJOY SQUARE WEST,The Croke Park Hotel,8.5,"Jones' Rd, Dublin",101.0,578
+913,MOUNTJOY SQUARE WEST,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,601
+914,MOUNTJOY SQUARE WEST,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,658
+915,MOUNTJOY SQUARE WEST,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,379
+916,MOUNTJOY SQUARE WEST,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,595
+917,MOUNTJOY SQUARE WEST,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,674
+918,MOUNTJOY SQUARE WEST,Roasted Bean Coffee Company,6.2,"53b Talbot St, Dublin, Dublin City",14.0,769
+919,MOUNTJOY SQUARE WEST,Lily's Café & Restaurant,,Dublin,,427
+920,MOUNTJOY SQUARE WEST,TJ's Coffee Bar,,"79, Parnell St, Dublin, Dublin City",,442
+921,MOUNTJOY SQUARE WEST,Q-Park The Spire,,"Marlborough St, Dublin",,527
+922,WILTON TERRACE,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,874
+923,WILTON TERRACE,Nick's Coffee Company,8.9,"20 Ranelagh, Dublin, Dublin City",151.0,576
+924,WILTON TERRACE,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,638
+925,WILTON TERRACE,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,495
+926,WILTON TERRACE,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,505
+927,WILTON TERRACE,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,648
+928,WILTON TERRACE,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,723
+929,WILTON TERRACE,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,748
+930,WILTON TERRACE,Q-Park Dawson Street,,"Schoolhouse Lane East, Dawson Street Car Park",,903
+931,WILTON TERRACE,First Draft Coffee And Wine,,"34 Lennox St, Dublin",,986
+932,HEUSTON BRIDGE (NORTH),Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1274
+933,HEUSTON BRIDGE (NORTH),Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,893
+934,HEUSTON BRIDGE (NORTH),Container Coffee,8.8,"161 Thomas St, Dublin",17.0,725
+935,HEUSTON BRIDGE (NORTH),Phoenix Park Tea Rooms,8.5,"Beside Dublin Zoo Chesterfield Avenue, City Centre North, City Centre, Dublin, Dublin City",100.0,944
+936,HEUSTON BRIDGE (NORTH),Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,563
+937,HEUSTON BRIDGE (NORTH),Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,857
+938,HEUSTON BRIDGE (NORTH),Park Rite Smithfield Car Park,,"Queen St, Dublin, Dublin City",,43
+939,HEUSTON BRIDGE (NORTH),Phoenix Park Hotel,,"38-39 Parkgate St, Dublin, Dublin City",,178
+940,HEUSTON BRIDGE (NORTH),Coffee District,,,,559
+941,HEUSTON BRIDGE (NORTH),Vandal Cafe & Restaurant,,"151 Thomas Street The Masonry, Dublin",,769
+942,LEINSTER STREET SOUTH,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,350
+943,LEINSTER STREET SOUTH,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,310
+944,LEINSTER STREET SOUTH,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,553
+945,LEINSTER STREET SOUTH,Crema Coffee at Facebook HQ,8.3,Dublin,12.0,974
+946,LEINSTER STREET SOUTH,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,684
+947,LEINSTER STREET SOUTH,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,515
+948,LEINSTER STREET SOUTH,Lemon Crepe & Coffee Co.,7.7,"66 South William St, Dublin, Dublin City",96.0,511
+949,LEINSTER STREET SOUTH,"""Gurman's Tea & Coffee World"" Dublin",7.4,"St Stephens Green Shopping centre (Ground Floor), Dublin, Dublin City",17.0,565
+950,LEINSTER STREET SOUTH,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,225
+951,LEINSTER STREET SOUTH,Costa Coffee,6.1,"30 Essex St E, Temple Bar, Dublin, Dublin City",42.0,782
+952,BLACKHALL PLACE,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,1941
+953,BLACKHALL PLACE,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,277
+954,BLACKHALL PLACE,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,608
+955,BLACKHALL PLACE,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,855
+956,BLACKHALL PLACE,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,766
+957,BLACKHALL PLACE,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,874
+958,BLACKHALL PLACE,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,196
+959,BLACKHALL PLACE,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,572
+960,BLACKHALL PLACE,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,742
+961,BLACKHALL PLACE,Q-Park Four Courts,,15-21 Usher's Quay,,470
+962,CLARENDON ROW,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,804
+963,CLARENDON ROW,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,248
+964,CLARENDON ROW,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,848
+965,CLARENDON ROW,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,576
+966,CLARENDON ROW,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,743
+967,CLARENDON ROW,The Art of Coffee,8.2,"The Origin Gallery, 84 Harcourt St, Dublin, Dublin City",37.0,894
+968,CLARENDON ROW,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,931
+969,CLARENDON ROW,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,982
+970,CLARENDON ROW,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,515
+971,CLARENDON ROW,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,389
+972,JAMES STREET EAST,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,423
+973,JAMES STREET EAST,Coffeeangel,8.7,"15 Leinster Street South, Dublin, Dublin City",75.0,723
+974,JAMES STREET EAST,The Art of Coffee,8.1,"Grand Canal Quay, Dublin, Dublin City",139.0,875
+975,JAMES STREET EAST,Coffeeangel,7.7,"27 Pembroke Street Lower, Dublin, Dublin City",64.0,263
+976,JAMES STREET EAST,Coffee 2 Go,7.5,"79 Mespil Rd, Dublin, Dublin City",65.0,333
+977,JAMES STREET EAST,The Coffee Kiosk,7.3,"124b Pembroke Road, Dublin, Dublin 4, Dublin, Dublin City",29.0,964
+978,JAMES STREET EAST,High Nelly's Coffee House,6.6,"4-6 Haddington Rd, Dublin, Dublin City",11.0,374
+979,JAMES STREET EAST,Costa Coffee,6.5,"1 Dawson St, Dublin, Dublin City",143.0,933
+980,JAMES STREET EAST,Hedley Park Montessori School,,"67 Merrion Square South, Dublin, Dublin City",,283
+981,JAMES STREET EAST,The Eddison Restaurant,,"Eastmoreland Place Dylan Hotel, Dublin, Dublin City",,518
+982,PARNELL SQUARE NORTH,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,998
+983,PARNELL SQUARE NORTH,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,267
+984,PARNELL SQUARE NORTH,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,617
+985,PARNELL SQUARE NORTH,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,921
+986,PARNELL SQUARE NORTH,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,323
+987,PARNELL SQUARE NORTH,Old Music Shop Restaurant,7.7,"3 North Frederick St, Dublin",17.0,161
+988,PARNELL SQUARE NORTH,Esquires Coffee,7.3,"16 O'Connell Street Lower, Dublin",25.0,425
+989,PARNELL SQUARE NORTH,Flanagans Restaurant,7.0,"61 Upper O'Connell St, Dublin, Dublin City",87.0,492
+990,PARNELL SQUARE NORTH,Costa Coffee,6.1,"30 Essex St E, Temple Bar, Dublin, Dublin City",42.0,925
+991,PARNELL SQUARE NORTH,Lily's Café & Restaurant,,Dublin,,277
+992,FOWNES STREET UPPER,Merrion Square Park,9.2,"Páirc Chearnóg Mhuirfean, Dublin, Dublin City",379.0,990
+993,FOWNES STREET UPPER,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,499
+994,FOWNES STREET UPPER,Shoe Lane Coffee,9.0,"7 Tara St, Dublin, Dublin City",89.0,618
+995,FOWNES STREET UPPER,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,885
+996,FOWNES STREET UPPER,Kingfisher Restaurant,8.3,"59 Parnell Square West, Dublin, Dublin City",115.0,784
+997,FOWNES STREET UPPER,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,551
+998,FOWNES STREET UPPER,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,805
+999,FOWNES STREET UPPER,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,106
+1000,FOWNES STREET UPPER,Costa Coffee,7.9,"3 College Green, Dublin, Dublin City",123.0,137
+1001,FOWNES STREET UPPER,Oriental Pantry Supermarket,7.9,"Unit 22-23 moore street, Dublin, 01 (Moore St), Dublin, Dublin City",10.0,720
+1002,SMITHFIELD,Phoenix Park,9.5,"Parkgate St, Dublin, Dublin City",803.0,2187
+1003,SMITHFIELD,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,110
+1004,SMITHFIELD,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,607
+1005,SMITHFIELD,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,982
+1006,SMITHFIELD,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,709
+1007,SMITHFIELD,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,843
+1008,SMITHFIELD,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,653
+1009,SMITHFIELD,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,87
+1010,SMITHFIELD,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,332
+1011,SMITHFIELD,The Riddler Restaurant,6.2,"La Rochelle Building, High Street, Christchurch, City Centre South (Lamb Alley), Dublin, Dublin City",17.0,524
+1012,FRANCIS STREET,Urbanity Coffee,9.3,"The Glass House, 11 Coke Lane, Dublin, Dublin City",203.0,585
+1013,FRANCIS STREET,Coffee Angel,9.0,"16 South Anne Street, Dublin 2, D02 VF29, Dublin, Dublin City",114.0,1098
+1014,FRANCIS STREET,Container Coffee,8.8,"161 Thomas St, Dublin",17.0,613
+1015,FRANCIS STREET,Two Pups Coffee,8.5,"74 Francis St, Dublin, Dublin City",71.0,328
+1016,FRANCIS STREET,Legit Coffee Co,8.4,"1 Meath Mart Meath Street The Liberties (Meath St), Dublin, Dublin City",60.0,241
+1017,FRANCIS STREET,Groundstate Coffee,8.3,"48- 50 James’s Street, Dublin, D08 YK6N, Dublin",18.0,894
+1018,FRANCIS STREET,The Coffee Bean,8.1,"64 Mary St, Dublin, Dublin City",14.0,844
+1019,FRANCIS STREET,Proper Order Coffee Co.,8.1,"7 Haymarket, Smithfield, Dublin, Dublin City",82.0,671
+1020,FRANCIS STREET,Craft Coffee Roasters,8.0,"27 Merchant's Quay, Dublin",37.0,345
+1021,FRANCIS STREET,The Quays Irish Restaurant,8.0,"10-12 Temple Bar Square, Dublin, Dublin City",293.0,891
